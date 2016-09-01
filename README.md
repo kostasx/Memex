@@ -27,7 +27,7 @@ _Soundtrack of the day: [Poldoore, SoundCloud](https://soundcloud.com/poldoore)_
 
 [Futurism: The Kardashev Scale – Type I, II, III, IV & V Civilization](http://futurism.com/the-kardashev-scale-type-i-ii-iii-iv-v-civilization/) (ERT: 00:06:01 | Words: 1205) 
 
-[Αναστασία Σιάπκα (νέοι που επιχειρούν): O προγραμματισμός είναι η νέα lingua franca!](http://www.platform.gr/life/ergasia/189-proswpa/6830-anastasia-siapka-neoi-pou-epixeiroyn-theloume-na-petyxoume-tin-syzefksi-tis-texnologias-me-tin-ekpaidefsi-gia-katoikous-apomakrysmenon-perioxon)
+[Αναστασία Σιάπκα (νέοι που επιχειρούν): O προγραμματισμός είναι η νέα lingua franca!](http://www.platform.gr/life/ergasia/189-proswpa/6830-anastasia-siapka-neoi-pou-epixeiroyn-theloume-na-petyxoume-tin-syzefksi-tis-texnologias-me-tin-ekpaidefsi-gia-katoikous-apomakrysmenon-perioxon) (ERT: 00:06:47 | Words: 1358)
 
 [Once Upon a Greek Island, Migrants and Tourists](http://lens.blogs.nytimes.com/2016/02/29/lesbos-greece-marieke-van-der-velden-philip-brink/) (ERT: 00:04:05 | Words: 819) / (Video duration: 00h:22m:30s)
 
