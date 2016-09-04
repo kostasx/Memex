@@ -3,6 +3,14 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 04/09/2016
+
+[American Experience: A Brilliant Madness](http://www.pbs.org/wgbh/amex/nash/index.html) (Video duration: 00:55:00)
+
+  The life of the Nobel Prize-winning mathematician and schizophrenic John Nash
+
+  > _"Three years later, he graduated from Carnegie Institute of Technology with a master's degree in math. His adviser wrote hime a one-sentence recommendation: 'This man is a genius.'_
+
 ## 01/09/2016
 
 _Soundtrack of the day: [Javarnanda](https://soundcloud.com/javarnanda-consapevole-del-vuoto)_
