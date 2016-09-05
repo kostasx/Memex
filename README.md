@@ -3,6 +3,16 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 05/09/2016
+
+_Soundtrack of the day: [MOGWAI - Les Revenants](http://www.mogwai.co.uk/music/les-revenants/)_
+
+[Work It - Is dating worth the effort?, By Alexandra Schwartz, The New Yorker, May 23, 2016](http://www.newyorker.com/magazine/2016/05/23/why-dating-is-drudgery) (ERT: 00:22:15 | Words: 4452)
+
+  > "Reading [Moira] Weigel’s “Labor of Love, [The Invention of Dating]” you can get the sense that women are now pinballing among the worst of all the dating systems that have come before. Like the shopgirls of the twenties, Weigel says, we turn ourselves into commodities, typing up dating-site profiles as if they were product descriptions, placing orders on one person and disposing of the next with a single swipe."
+
+  > "Another girl tells [Nancy Jo] Sales that social media is “destroying our lives.” Sales asks why she doesn’t quit. “Because then we would have no life,” she is told."
+
 ## 04/09/2016
 
 [American Experience: A Brilliant Madness](http://www.pbs.org/wgbh/amex/nash/index.html) (Video duration: 00:55:00)
