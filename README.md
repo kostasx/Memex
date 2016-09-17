@@ -3,6 +3,26 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 17/09/2016
+
+_Soundtrack of the day: [Andreas Loesch, Endure, from the album: 'The Phoboslab Works'](http://no-fate.net/)_
+
+[Sherry Turkle: "Reclaiming Conversation: The Power of Talk in a Digital Age"](https://www.youtube.com/watch?v=DyvJ6mqfJ6o) (Video duration: 00:44:47)
+
+  > _"Digital communication, has gotten us accustomed to the edited life, we've got to reconsider that the unedited life is also worth living."_
+
+  > _"Conversation, like life, has silences. It has boring bits. And it's often in the moments when we stumble, and we hesitate, and we fall silent, and we're not so perfect, that we reveal ourself to each other."_
+
+  > _"The capacity for solitude, is closely linked to the capacity for relationship."_
+  
+  > _"Remember that the presence of a device [in a conversation] already signals your attention is divided."_
+
+## 10/09/2016
+
+[It's all in our heads](http://news.mit.edu/2016/all-in-our-heads-marika-landau-wells-0223) (ERT: 00:04:31 | Words: 905)
+
+  > Political science PhD student Marika Landau-Wells is using psychology and neuroscience to better understand political behavior.
+
 ## 08/09/2016
 
 _Soundtrack of the day: Το Μινόρε της Αυγής_
@@ -75,3 +95,14 @@ _Soundtrack of the day: [Poldoore, SoundCloud](https://soundcloud.com/poldoore)_
 
 [1](#read-o-meter) [READ-O-METER](http://niram.org/read/)
 
+## SOURCES
+
+[The New York Times](https://www.nytimes.com/)
+
+[The New Yorker Magazine](https://www.newyorker.com/)
+
+[TED - A conference where Technology, Entertainment and Design converg](https://www.ted.com)
+
+[MIT News](https://news.mit.edu)
+
+[Futurism](https://futurism.com/)
