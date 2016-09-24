@@ -3,6 +3,34 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 24/09/2016
+
+_Soundtrack of the day: [Across the Universe, Kurt Cobain cover](https://www.youtube.com/watch?v=PxucQe-3gMY)_
+
+[Ιγνάσιο Ραμονέ: Το Διαδίκτυο και η αυτοκρατορία της επιτήρησης](https://left.gr/news/ignasio-ramone-diadiktyo-kai-i-aytokratoria-tis-epitirisis) (ERT: 00:14:42 | Words: 2940)
+
+  > _"Το σημερινό σύστημα μας κάνει όχι μόνο να είμαστε υπό επιτήρηση, αλλά και να παρακολουθούμε κι εμείς τους άλλους. Αυτό είναι η διαστροφή του συστήματος. [...] Δεν είναι εύκολο να αντιληφθείς ότι εσύ ο ίδιος συνεισφέρεις στην παρακολούθησή σου."_
+
+  > _"El sistema hoy de hace nosotros, ya no sólo personas vigiladas, sino que quiere que nosotros mismos seamos vigilantes. Esto es una perversión del sistema. [...] "_
+
+  > _"H επιτήρηση ήδη δεν είναι όπως πριν. Τώρα πια δεν είναι ανάγκη να βάλεις κοριό σε τηλέφωνα. Εγώ ο ίδιος αγόρασα το iPhone μου, τον υπολογιστή μου και το iPad μου. Για να μας επιτηρεί κάποιος, αρκούν αυτές οι συσκευές και όσα κάνουμε με αυτές, οι οποίες μετατρέπονται έτσι σε βραχιόλι παρακολούθησης. **Δεν είναι εύκολο να αντιληφθείς ότι εσύ ο ίδιος συνεισφέρεις στην παρακολούθησή σου.**"_
+
+  > _"La vigilancia ya no es como antes. Hoy ya no es necesario pinchar teléfonos porque yo mismo me he comprado mi iPhone, mi ordenador o mi iPad. Basta con vigilar, y se puede hacer a distancia, lo que hago con estos aparatos, que se convierten en una especie de pulsera de seguimiento. No es fácil tomar conciencia de que tú mismo estás contribuyendo a tu propia vigilancia."_
+
+[Original article](http://www.publico.es/internacional/ignacio-ramonet-entrevista-imperio-vigilancia.html)
+
+## 22/09/2016
+
+_Soundtrack of the day: Frédéric Chopin_
+
+[S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) 
+
+## 19/09/2016
+
+[Bloomberg Game Changers: Larry Ellison revealed](https://www.youtube.com/watch?v=mB2V0BXH608) (Video duration: 00:25:06)
+
+  > _"Ellison sold his database to the CIA, his first customer. He called the new software Oracle version 2. There was no version 1, because everyone thought... well no one buys version 1, it's buggy. So we started with version 2."_
+
 ## 17/09/2016
 
 _Soundtrack of the day: [Andreas Loesch, Endure, from the album: 'The Phoboslab Works'](http://no-fate.net/)_
@@ -106,3 +134,7 @@ _Soundtrack of the day: [Poldoore, SoundCloud](https://soundcloud.com/poldoore)_
 [MIT News](https://news.mit.edu)
 
 [Futurism](https://futurism.com/)
+
+[Scotch.io](https://scotch.io)
+
+[LEFT.gr](https://left.gr/)
