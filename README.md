@@ -3,6 +3,14 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 26/09/2016
+
+[Technology and the Brain, the Latest Research and Findings: Larry Rosen](https://www.youtube.com/watch?v=n0OqA0pmAag) (Video duration: 00:20:37)
+
+  > _Visiting 1 website, just once in the 15 minutes, led to worst grades. Can you guess what website? Facebook."_
+
+  > _"How can you be working when part of your brain, 25 seconds before, is already getting excited about switching to Facebook, a video or games?"_
+
 ## 24/09/2016
 
 _Soundtrack of the day: [Across the Universe, Kurt Cobain cover](https://www.youtube.com/watch?v=PxucQe-3gMY)_
