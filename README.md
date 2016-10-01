@@ -3,6 +3,14 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 01/10/2016
+
+_Soundtrack of the day: **Brian Eno**_
+
+[Elon Musk : How to Build the Future](https://www.youtube.com/watch?v=tnBQmEqBCY0) (Video duration: 00:19:32)
+
+  > _"Entropy is not on your side."_
+
 ## 26/09/2016
 
 [Technology and the Brain, the Latest Research and Findings: Larry Rosen](https://www.youtube.com/watch?v=n0OqA0pmAag) (Video duration: 00:20:37)
