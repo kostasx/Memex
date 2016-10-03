@@ -3,6 +3,12 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 03/10/2016
+
+[Disposable Life - Cynthia Enloe](https://vimeo.com/84972560) (Video duration: 00:14:19)
+
+  > _"We could always turn into the disposers. We could be the disposable, but we can also be the disposers. And for that we have to really think hard about Arendt's warnings to all of us. And the warning, I think, Arendt, offers us, a timely one, is that you become a disposer if you begin to look at photographs of people and you just see masses without any stories, or any names. You become a disposer, if you begin to talk about people as categories. You become a disposer when you can no longer tolerate complexity. And that means individual people's lives."_
+
 ## 02/10/2016
 
 _Soundtrack of the day: **The Zero Theorem (Music From the Motion Picture), By George Fenton**_
