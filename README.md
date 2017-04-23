@@ -3,6 +3,14 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 24/04/2017
+
+[Facebook has 60 people working on how to read your mind](https://www.theguardian.com/technology/2017/apr/19/facebook-mind-reading-technology-f8) (ERT: 00:05:15 | Words: 1052)
+
+## 05/01/2017
+
+[Zappos is struggling with Holacracy because humans aren’t designed to operate like software](http://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/)
+
 ## 03/10/2016
 
 [Disposable Life - Cynthia Enloe](https://vimeo.com/84972560) (Video duration: 00:14:19)
