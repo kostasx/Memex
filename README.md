@@ -3,6 +3,28 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 26/08/2017
+
+_Soundtrack of the day: **[AmbientRadio](http://ambientradio.org)**_
+
+[NEURONS V FREE WILL, The notion of free will is under attack again, this time from the advance of neuroscience, Anthony Gottlieb](https://www.1843magazine.com/content/ideas/neurons-v-free-will)
+
+  > _"[T]here is a growing realisation among some neuroscientists that looking at flickers of activity inside our heads can be a misleading way to see how our minds work."_
+
+  > [...]
+
+  > _"A team of psychologists at MIT and the University of California at San Diego, who were puzzled by the suspiciously definitive results of many brain-scan studies on these topics, asked the authors of 55 such papers how they had analysed their data. The team reported in 2009 that over half the studies used faulty methods that were guaranteed to shift the results in favour of the correlations they had been looking for between mental activity and blips in parts of the brain."_ 
+
+  > _**It’s worth bearing this in mind the next time you read about a brain-scan study which purportedly reveals how and why we do what we do.**_
+
+[A practitioner’s guide to hedonism, Anthony Gottlieb](https://www.1843magazine.com/story/a-practitioners-guide-to-hedonism)
+
+  > _"For Epicurus, tranquillity was the ultimate delight. That is why the real Epicurus – in contrast to the crude sybarite invented by his detractors – denounced the rapidly rotting fruits of dissipation and excess. The constant pursuit of intense pleasures will in fact backfire, according to Epicurus, because it leads to the psychological hell of enslavement to unsatisfiable appetites. The would-be hedonist must take care to ensure that the pain of overreaching desire does not ruin his peace of mind and thereby defeat his original aim of securing a balance of pleasure over pain."_
+
+  > _"A good Platonist would rather contemplate the perfect meal than eat it."_
+
+## ...
+
 ## 24/04/2017
 
 [Facebook has 60 people working on how to read your mind](https://www.theguardian.com/technology/2017/apr/19/facebook-mind-reading-technology-f8) (ERT: 00:05:15 | Words: 1052)
@@ -175,7 +197,9 @@ _Soundtrack of the day: [Poldoore, SoundCloud](https://soundcloud.com/poldoore)_
 
 [The New Yorker Magazine](https://www.newyorker.com/)
 
-[TED - A conference where Technology, Entertainment and Design converg](https://www.ted.com)
+[The Guardian](https://www.theguardian.com/)
+
+[TED - A conference where Technology, Entertainment and Design converge](https://www.ted.com)
 
 [MIT News](https://news.mit.edu)
 
@@ -184,3 +208,5 @@ _Soundtrack of the day: [Poldoore, SoundCloud](https://soundcloud.com/poldoore)_
 [Scotch.io](https://scotch.io)
 
 [LEFT.gr](https://left.gr/)
+
+[1843 - The culture, lifestyle and ideas magazine from The Economist](https://www.1843magazine.com/)
