@@ -3,6 +3,14 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 28/10/2017
+
+[Men, Masculinity, and the Contexts of Help Seeking, Michael E. Addis / James R. Mahalik / Clark University Boston College](http://www2.clarku.edu/faculty/addis/menscoping/files/addis_mahalik_2003.pdf)
+
+  > _"A man is least likely to seek help for problems that he sees as unusual, especially when he also perceives them as central to his identity. He is also unlikely to seek help if groups of men who are important to him endorse norms of self-reliance or other norms that suggest his problem is non-normative. Finally, help seeking is less likely to the degree that a man calculates that rejection from an important social group, as well as his view of himself as deviant, are costs too great to risk in relation to the help he might receive. This is especially true if he feels he will sacrifice his autonomy by seeking help."_
+
+  > _"There is little doubt that traditional helping services are underutilized by many men experiencing a wide range of problems in living. It is also likely that a variety of masculinity ideologies, norms, and gender roles play a part in discouraging men’s help seeking."_
+
 ## 26/08/2017
 
 _Soundtrack of the day: **[AmbientRadio](http://ambientradio.org)**_
