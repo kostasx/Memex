@@ -1,5 +1,5 @@
 # ReadingList
-A list of (my) morning readings (and occasional screenings).
+A list of (my) morning readings (and occasional video viewing).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
