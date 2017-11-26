@@ -3,6 +3,20 @@ A list of (my) morning readings (and occasional screenings).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 26/11/2017
+
+_Soundtrack of the day: **[Andre Rieu - Fascination](https://www.last.fm/music/Andr%C3%A9+Rieu/Fiesta/Fascination)**_
+
+[Transgender People and “Biological Sex” Myths](https://medium.com/@juliaserano/transgender-people-and-biological-sex-myths-c2a9bcdb4f4a?subid=22884542)
+
+  > _"Sex is multifaceted, variable, and somewhat malleable."_
+
+  > _"While some biologists in the past have forwarded strict “nature” arguments, contemporary biologists acknowledge that most (if not all) human traits arise due to complex interactions between numerous biological factors (both shared biology and individual biological differences) and environment (both shared culture and individual experiences) to create a broad spectrum of outcomes."_
+
+  > _"So in other words, we can say that biological sex differences exist, and also that our understanding of sex is socially constructed — these are not contradictory statements at all."_
+
+  > _"Feminism is a movement to end sexism. Trans women face sexism. Ergo, trans women have a stake in feminism."_
+
 ## 28/10/2017
 
 [Men, Masculinity, and the Contexts of Help Seeking, Michael E. Addis / James R. Mahalik / Clark University Boston College](http://www2.clarku.edu/faculty/addis/menscoping/files/addis_mahalik_2003.pdf)
