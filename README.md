@@ -3,6 +3,12 @@ A list of (my) morning readings (and occasional video viewing).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 11/03/2018
+
+[YouTube, the Great Radicalizer, Zeynep Tufekci MARCH 10, 2018](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html)
+
+  > _"In effect, YouTube has created a restaurant that serves us increasingly sugary, fatty foods, loading up our plates as soon as we are finished with the last meal. Over time, our tastes adjust, and we seek even more sugary, fatty foods, which the restaurant dutifully provides. When confronted about this by the health department and concerned citizens, the restaurant managers reply that they are merely serving us what we want."_
+
 ## 26/11/2017
 
 _Soundtrack of the day: **[Andre Rieu - Fascination](https://www.last.fm/music/Andr%C3%A9+Rieu/Fiesta/Fascination)**_
