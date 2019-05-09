@@ -7,27 +7,27 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 [Memorable Tech Talks, The Ultimate Guide - Nina Zakharenko](https://testandcode.com/71)
 
-  > _"Getting started with tech talks: start with lightning talks, preferably at local meetups."
+  > _"Getting started with tech talks: start with lightning talks, preferably at local meetups."_
 
-  > _"Practice your talks beforehand, preferably with some audience (friends, colleagues). "
+  > _"Practice your talks beforehand, preferably with some audience (friends, colleagues). "_
 
-  > _"The time it takes to practice a presentation, will always be off from the real thing. Keep this in time."
+  > _"The time it takes to practice a presentation, will always be off from the real thing. Keep this in time."_
 
-  > _"Add timing to your slides. For example, you can write a note 'half time' in the middle of the slides, so that when you reach that slide you know whether you need to slow down or speed up if you are off the clock. Try placing time stamps on several slides."
+  > _"Add timing to your slides. For example, you can write a note 'half time' in the middle of the slides, so that when you reach that slide you know whether you need to slow down or speed up if you are off the clock. Try placing time stamps on several slides."_
 
-  > _"Use a countdown timer"
+  > _"Use a countdown timer"_
 
-  > _"Don't stand still! (Audience comment on Brian: "I like that you are walking around!")"
+  > _"Don't stand still! (Audience comment on Brian: "I like that you are walking around!")"_
 
-  > _"Read books and watch talks about public speaking"
+  > _"Read books and watch talks about public speaking"_
 
   > _"A little bit of silence/pause in the talk is helpful for both you and the audience"
     (it also adds a little bit of drama: what are you going to talk next?)"
-    Take a pause, drink some water or coffee if you feel a bit embarrassed."
+    Take a pause, drink some water or coffee if you feel a bit embarrassed."_
 
-  > _"Have anything prerecorded or in slide format in case live coding/demos break or stop working. Live demos without a backup plan is not good."
+  > _"Have anything prerecorded or in slide format in case live coding/demos break or stop working. Live demos without a backup plan is not good."_
 
-  > _"Nina's approach for learning and teaching deep tech concepts: take a concept that seems to be out of reach for beginners, breaking it down to the most digestible chunks and then building your talk based on them."
+  > _"Nina's approach for learning and teaching deep tech concepts: take a concept that seems to be out of reach for beginners, breaking it down to the most digestible chunks and then building your talk based on them."_
 
   [Read more: The Ultimate Guide to Memorable Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b)
 
