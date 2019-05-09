@@ -3,6 +3,37 @@ A list of (my) morning readings (and occasional video viewing).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+## 09/05/2019
+
+[Memorable Tech Talks, The Ultimate Guide - Nina Zakharenko](https://testandcode.com/71)
+
+  > _"Getting started with tech talks: start with lightning talks, preferably at local meetups."
+
+  > _"Practice your talks beforehand, preferably with some audience (friends, colleagues). "
+
+  > _"The time it takes to practice a presentation, will always be off from the real thing. Keep this in time."
+
+  > _"Add timing to your slides. For example, you can write a note 'half time' in the middle of the slides, so that when you reach that slide you know whether you need to slow down or speed up if you are off the clock. Try placing time stamps on several slides."
+
+  > _"Use a countdown timer"
+
+  > _"Don't stand still! (Audience comment on Brian: "I like that you are walking around!")"
+
+  > _"Read books and watch talks about public speaking"
+
+  > _"A little bit of silence/pause in the talk is helpful for both you and the audience"
+    (it also adds a little bit of drama: what are you going to talk next?)"
+    Take a pause, drink some water or coffee if you feel a bit embarrassed."
+
+  > _"Have anything prerecorded or in slide format in case live coding/demos break or stop working. Live demos without a backup plan is not good."
+
+  > _"Nina's approach for learning and teaching deep tech concepts: take a concept that seems to be out of reach for beginners, breaking it down to the most digestible chunks and then building your talk based on them."
+
+  [Read more: The Ultimate Guide to Memorable Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b)
+
+  [Nina @ Twitter](https://twitter.com/nnja)
+  [Nina @ GitHub](https://github.com/nnja)
+
 ## 11/03/2018
 
 [YouTube, the Great Radicalizer, Zeynep Tufekci MARCH 10, 2018](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html)
