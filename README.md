@@ -3,42 +3,55 @@ A list of (my) morning readings (and occasional video viewing).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
-## 09/05/2019
+<details>
+  <summary>09/05/2019 | <a href="https://testandcode.com/71">Memorable Tech Talks, The Ultimate Guide - Nina Zakharenko</a></summary>
 
-[Memorable Tech Talks, The Ultimate Guide - Nina Zakharenko](https://testandcode.com/71)
+  <br/>
+  <blockquote>"Getting started with tech talks: start with lightning talks, preferably at local meetups."</blockquote>
 
-  > _"Getting started with tech talks: start with lightning talks, preferably at local meetups."_
+  <br/>
+  <blockquote>"Practice your talks beforehand, preferably with some audience (friends, colleagues). "</blockquote>
 
-  > _"Practice your talks beforehand, preferably with some audience (friends, colleagues). "_
+  <br/>
+  <blockquote>"The time it takes to practice a presentation, will always be off from the real thing. Keep this in time."</blockquote>
 
-  > _"The time it takes to practice a presentation, will always be off from the real thing. Keep this in time."_
+  <br/>
+  <blockquote>"Add timing to your slides. For example, you can write a note 'half time' in the middle of the slides, so that when you reach that slide you know whether you need to slow down or speed up if you are off the clock. Try placing time stamps on several slides."</blockquote>
 
-  > _"Add timing to your slides. For example, you can write a note 'half time' in the middle of the slides, so that when you reach that slide you know whether you need to slow down or speed up if you are off the clock. Try placing time stamps on several slides."_
+  <br/>
+  <blockquote>"Use a countdown timer"</blockquote>
 
-  > _"Use a countdown timer"_
+  <br/>
+  <blockquote>"Don't stand still! (Audience comment on Brian: "I like that you are walking around!")"</blockquote>
 
-  > _"Don't stand still! (Audience comment on Brian: "I like that you are walking around!")"_
+  <br/>
+  <blockquote>"Read books and watch talks about public speaking"</blockquote>
 
-  > _"Read books and watch talks about public speaking"_
-
-  > _"A little bit of silence/pause in the talk is helpful for both you and the audience"
+  <br/>
+  <blockquote>"A little bit of silence/pause in the talk is helpful for both you and the audience"
     (it also adds a little bit of drama: what are you going to talk next?)"
-    Take a pause, drink some water or coffee if you feel a bit embarrassed."_
+    Take a pause, drink some water or coffee if you feel a bit embarrassed."</blockquote>
 
-  > _"Have anything prerecorded or in slide format in case live coding/demos break or stop working. Live demos without a backup plan is not good."_
+  <br/>
+  <blockquote>"Have anything prerecorded or in slide format in case live coding/demos break or stop working. Live demos without a backup plan is not good."</blockquote>
 
-  > _"Nina's approach for learning and teaching deep tech concepts: take a concept that seems to be out of reach for beginners, breaking it down to the most digestible chunks and then building your talk based on them."_
+  <br/>
+  <blockquote>"Nina's approach for learning and teaching deep tech concepts: take a concept that seems to be out of reach for beginners, breaking it down to the most digestible chunks and then building your talk based on them."</blockquote>
 
-  [Read more: The Ultimate Guide to Memorable Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b)
+  <p><a href="https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b">Read more: The Ultimate Guide to Memorable Talks</a></p>
 
-  [Nina @ Twitter](https://twitter.com/nnja)
-  [Nina @ GitHub](https://github.com/nnja)
+  <p><a href="https://twitter.com/nnja">Nina @ Twitter</a></p>
 
-## 11/03/2018
+  <p><a href="https://github.com/nnja">Nina @ GitHub</a></p>
+</details>
 
-[YouTube, the Great Radicalizer, Zeynep Tufekci MARCH 10, 2018](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html)
+<details>
+  <summary>11/03/2018 | <a href="https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html">YouTube, the Great Radicalizer, Zeynep Tufekci</a></summary>
 
-  > _"In effect, YouTube has created a restaurant that serves us increasingly sugary, fatty foods, loading up our plates as soon as we are finished with the last meal. Over time, our tastes adjust, and we seek even more sugary, fatty foods, which the restaurant dutifully provides. When confronted about this by the health department and concerned citizens, the restaurant managers reply that they are merely serving us what we want."_
+  <blockquote>
+  <p><em>&quot;In effect, YouTube has created a restaurant that serves us increasingly sugary, fatty foods, loading up our plates as soon as we are finished with the last meal. Over time, our tastes adjust, and we seek even more sugary, fatty foods, which the restaurant dutifully provides. When confronted about this by the health department and concerned citizens, the restaurant managers reply that they are merely serving us what we want.&quot;</em></p>
+  </blockquote>
+</details>
 
 ## 26/11/2017
 
@@ -248,24 +261,16 @@ _Soundtrack of the day: [Poldoore, SoundCloud](https://soundcloud.com/poldoore)_
 
 ## REFERENCES, SOURCES AND TOOLS
 
-[1](#read-o-meter) [READ-O-METER](http://niram.org/read/)
+- [(1)](#read-o-meter) [READ-O-METER](http://niram.org/read/)
 
 ## SOURCES
 
-[The New York Times](https://www.nytimes.com/)
-
-[The New Yorker Magazine](https://www.newyorker.com/)
-
-[The Guardian](https://www.theguardian.com/)
-
-[TED - A conference where Technology, Entertainment and Design converge](https://www.ted.com)
-
-[MIT News](https://news.mit.edu)
-
-[Futurism](https://futurism.com/)
-
-[Scotch.io](https://scotch.io)
-
-[LEFT.gr](https://left.gr/)
-
-[1843 - The culture, lifestyle and ideas magazine from The Economist](https://www.1843magazine.com/)
+- [The New York Times](https://www.nytimes.com/)
+- [The New Yorker Magazine](https://www.newyorker.com/)
+- [The Guardian](https://www.theguardian.com/)
+- [TED - A conference where Technology, Entertainment and Design converge](https://www.ted.com)
+- [MIT News](https://news.mit.edu)
+- [Futurism](https://futurism.com/)
+- [Scotch.io](https://scotch.io)
+- [LEFT.gr](https://left.gr/)
+- [1843 - The culture, lifestyle and ideas magazine from The Economist](https://www.1843magazine.com/)
