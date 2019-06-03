@@ -53,19 +53,27 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   </blockquote>
 </details>
 
-## 26/11/2017
+<details>
+  <summary>26/11/2017 | <a href="https://medium.com/@juliaserano/transgender-people-and-biological-sex-myths-c2a9bcdb4f4a?subid=22884542">Transgender People and “Biological Sex” Myths</a></summary>
 
-_Soundtrack of the day: **[Andre Rieu - Fascination](https://www.last.fm/music/Andr%C3%A9+Rieu/Fiesta/Fascination)**_
+  <p><em>Soundtrack of the day: <strong><a href="https://www.last.fm/music/Andr%C3%A9+Rieu/Fiesta/Fascination">Andre Rieu - Fascination</a></strong></em></p>
 
-[Transgender People and “Biological Sex” Myths](https://medium.com/@juliaserano/transgender-people-and-biological-sex-myths-c2a9bcdb4f4a?subid=22884542)
+  <blockquote>
+  <p><em>&quot;Sex is multifaceted, variable, and somewhat malleable.&quot;</em></p>
+  </blockquote>
 
-  > _"Sex is multifaceted, variable, and somewhat malleable."_
+  <blockquote>
+  <p><em>&quot;While some biologists in the past have forwarded strict “nature” arguments, contemporary biologists acknowledge that most (if not all) human traits arise due to complex interactions between numerous biological factors (both shared biology and individual biological differences) and environment (both shared culture and individual experiences) to create a broad spectrum of outcomes.&quot;</em></p>
+  </blockquote>
 
-  > _"While some biologists in the past have forwarded strict “nature” arguments, contemporary biologists acknowledge that most (if not all) human traits arise due to complex interactions between numerous biological factors (both shared biology and individual biological differences) and environment (both shared culture and individual experiences) to create a broad spectrum of outcomes."_
+  <blockquote>
+  <p><em>&quot;So in other words, we can say that biological sex differences exist, and also that our understanding of sex is socially constructed — these are not contradictory statements at all.&quot;</em></p>
+  </blockquote>
 
-  > _"So in other words, we can say that biological sex differences exist, and also that our understanding of sex is socially constructed — these are not contradictory statements at all."_
-
-  > _"Feminism is a movement to end sexism. Trans women face sexism. Ergo, trans women have a stake in feminism."_
+  <blockquote>
+  <p><em>&quot;Feminism is a movement to end sexism. Trans women face sexism. Ergo, trans women have a stake in feminism.&quot;</em></p>
+  </blockquote>
+</details>
 
 ## 28/10/2017
 
@@ -95,11 +103,10 @@ _Soundtrack of the day: **[AmbientRadio](http://ambientradio.org)**_
 
   > _"A good Platonist would rather contemplate the perfect meal than eat it."_
 
-## ...
-
-## 24/04/2017
-
-[Facebook has 60 people working on how to read your mind](https://www.theguardian.com/technology/2017/apr/19/facebook-mind-reading-technology-f8) (ERT: 00:05:15 | Words: 1052)
+<details>
+  <summary>24/04/2017 | <a href="https://www.theguardian.com/technology/2017/apr/19/facebook-mind-reading-technology-f8">Facebook has 60 people working on how to read your mind</a></summary>
+  <p>(ERT: 00:05:15 | Words: 1052)</p>
+</details>
 
 ## 05/01/2017
 
@@ -159,17 +166,20 @@ _Soundtrack of the day: [Across the Universe, Kurt Cobain cover](https://www.you
 
 [Original article](http://www.publico.es/internacional/ignacio-ramonet-entrevista-imperio-vigilancia.html)
 
-## 22/09/2016
+<details>
+  <summary>22/09/2016 | <a href="https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design">S.O.L.I.D: The First 5 Principles of Object Oriented Design</a></summary>
+  <p><em>Soundtrack of the day: Frédéric Chopin</em></p>
+</details>
 
-_Soundtrack of the day: Frédéric Chopin_
+<details>
+  <summary>19/09/2016 | <a href="https://www.youtube.com/watch?v=mB2V0BXH608">Bloomberg Game Changers: Larry Ellison revealed</a>
+  </summary>
+  <p>(Video duration: 00:25:06)</p>
 
-[S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) 
-
-## 19/09/2016
-
-[Bloomberg Game Changers: Larry Ellison revealed](https://www.youtube.com/watch?v=mB2V0BXH608) (Video duration: 00:25:06)
-
-  > _"Ellison sold his database to the CIA, his first customer. He called the new software Oracle version 2. There was no version 1, because everyone thought... well no one buys version 1, it's buggy. So we started with version 2."_
+  <blockquote>
+    <p><em>&quot;Ellison sold his database to the CIA, his first customer. He called the new software Oracle version 2. There was no version 1, because everyone thought... well no one buys version 1, it's buggy. So we started with version 2.&quot;</em></p>
+  </blockquote>
+</details>
 
 ## 17/09/2016
 
