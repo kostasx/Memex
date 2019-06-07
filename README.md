@@ -75,33 +75,47 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   </blockquote>
 </details>
 
-## 28/10/2017
+<details>
+  <summary>28/10/2017 | <a href="http://www2.clarku.edu/faculty/addis/menscoping/files/addis_mahalik_2003.pdf">Men, Masculinity, and the Contexts of Help Seeking</a></summary>
+  <p>By Michael E. Addis / James R. Mahalik / Clark University Boston College</p>
 
-[Men, Masculinity, and the Contexts of Help Seeking, Michael E. Addis / James R. Mahalik / Clark University Boston College](http://www2.clarku.edu/faculty/addis/menscoping/files/addis_mahalik_2003.pdf)
+  <blockquote>
+    <p><em>&quot;A man is least likely to seek help for problems that he sees as unusual, especially when he also perceives them as central to his identity. He is also unlikely to seek help if groups of men who are important to him endorse norms of self-reliance or other norms that suggest his problem is non-normative. Finally, help seeking is less likely to the degree that a man calculates that rejection from an important social group, as well as his view of himself as deviant, are costs too great to risk in relation to the help he might receive. This is especially true if he feels he will sacrifice his autonomy by seeking help.&quot;</em></p>
+  </blockquote>
 
-  > _"A man is least likely to seek help for problems that he sees as unusual, especially when he also perceives them as central to his identity. He is also unlikely to seek help if groups of men who are important to him endorse norms of self-reliance or other norms that suggest his problem is non-normative. Finally, help seeking is less likely to the degree that a man calculates that rejection from an important social group, as well as his view of himself as deviant, are costs too great to risk in relation to the help he might receive. This is especially true if he feels he will sacrifice his autonomy by seeking help."_
+  <blockquote>
+    <p><em>&quot;There is little doubt that traditional helping services are underutilized by many men experiencing a wide range of problems in living. It is also likely that a variety of masculinity ideologies, norms, and gender roles play a part in discouraging men’s help seeking.&quot;</em></p>
+  </blockquote>
+</details>
 
-  > _"There is little doubt that traditional helping services are underutilized by many men experiencing a wide range of problems in living. It is also likely that a variety of masculinity ideologies, norms, and gender roles play a part in discouraging men’s help seeking."_
+<details>
+  <summary>26/08/2017 | <a href="https://www.1843magazine.com/content/ideas/neurons-v-free-will">Neurons v Free Will, The notion of free will is under attack again, this time from the advance of neuroscience, Anthony Gottlieb</a></summary>
+  <p><em>Soundtrack of the day: <strong><a href="http://ambientradio.org">AmbientRadio</a></strong></em></p>
 
-## 26/08/2017
+  <blockquote>
+    <p><em>&quot;[T]here is a growing realisation among some neuroscientists that looking at flickers of activity inside our heads can be a misleading way to see how our minds work.&quot;</em></p>
+  </blockquote>
 
-_Soundtrack of the day: **[AmbientRadio](http://ambientradio.org)**_
+  <blockquote>
+    <p><em>&quot;A team of psychologists at MIT and the University of California at San Diego, who were puzzled by the suspiciously definitive results of many brain-scan studies on these topics, asked the authors of 55 such papers how they had analysed their data. The team reported in 2009 that over half the studies used faulty methods that were guaranteed to shift the results in favour of the correlations they had been looking for between mental activity and blips in parts of the brain.&quot;</em></p>
+  </blockquote>
 
-[NEURONS V FREE WILL, The notion of free will is under attack again, this time from the advance of neuroscience, Anthony Gottlieb](https://www.1843magazine.com/content/ideas/neurons-v-free-will)
+  <blockquote>
+    <p><em><strong>It’s worth bearing this in mind the next time you read about a brain-scan study which purportedly reveals how and why we do what we do.</strong></em></p>
+  </blockquote>
 
-  > _"[T]here is a growing realisation among some neuroscientists that looking at flickers of activity inside our heads can be a misleading way to see how our minds work."_
+  <blockquote>
+    <p><em>&quot;For Epicurus, tranquillity was the ultimate delight. That is why the real Epicurus – in contrast to the crude sybarite invented by his detractors – denounced the rapidly rotting fruits of dissipation and excess. The constant pursuit of intense pleasures will in fact backfire, according to Epicurus, because it leads to the psychological hell of enslavement to unsatisfiable appetites. The would-be hedonist must take care to ensure that the pain of overreaching desire does not ruin his peace of mind and thereby defeat his original aim of securing a balance of pleasure over pain.&quot;</em></p>
+  </blockquote>
 
-  > [...]
+  <blockquote>
+    <p><em>&quot;A good Platonist would rather contemplate the perfect meal than eat it.&quot;</em></p>
+  </blockquote>
 
-  > _"A team of psychologists at MIT and the University of California at San Diego, who were puzzled by the suspiciously definitive results of many brain-scan studies on these topics, asked the authors of 55 such papers how they had analysed their data. The team reported in 2009 that over half the studies used faulty methods that were guaranteed to shift the results in favour of the correlations they had been looking for between mental activity and blips in parts of the brain."_ 
+  <p><a href="https://www.1843magazine.com/story/a-practitioners-guide-to-hedonism">A practitioner’s guide to hedonism, Anthony Gottlieb</a></p>
 
-  > _**It’s worth bearing this in mind the next time you read about a brain-scan study which purportedly reveals how and why we do what we do.**_
+</details>
 
-[A practitioner’s guide to hedonism, Anthony Gottlieb](https://www.1843magazine.com/story/a-practitioners-guide-to-hedonism)
-
-  > _"For Epicurus, tranquillity was the ultimate delight. That is why the real Epicurus – in contrast to the crude sybarite invented by his detractors – denounced the rapidly rotting fruits of dissipation and excess. The constant pursuit of intense pleasures will in fact backfire, according to Epicurus, because it leads to the psychological hell of enslavement to unsatisfiable appetites. The would-be hedonist must take care to ensure that the pain of overreaching desire does not ruin his peace of mind and thereby defeat his original aim of securing a balance of pleasure over pain."_
-
-  > _"A good Platonist would rather contemplate the perfect meal than eat it."_
 
 <details>
   <summary>24/04/2017 | <a href="https://www.theguardian.com/technology/2017/apr/19/facebook-mind-reading-technology-f8">Facebook has 60 people working on how to read your mind</a></summary>
