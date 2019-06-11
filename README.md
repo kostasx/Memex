@@ -113,7 +113,6 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   </blockquote>
 
   <p><a href="https://www.1843magazine.com/story/a-practitioners-guide-to-hedonism">A practitioner’s guide to hedonism, Anthony Gottlieb</a></p>
-
 </details>
 
 
@@ -122,15 +121,18 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   <p>(ERT: 00:05:15 | Words: 1052)</p>
 </details>
 
-## 05/01/2017
+<details>
+  <summary>05/01/2017 | <a href="http://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/">Zappos is struggling with Holacracy because humans aren’t designed to operate like software</a></summary>
+</details>
 
-[Zappos is struggling with Holacracy because humans aren’t designed to operate like software](http://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/)
+<details>
+  <summary>03/10/2016 | <a href="https://vimeo.com/84972560">Disposable Life - Cynthia Enloe</a> (Video duration: 00:14:19)</summary>
 
-## 03/10/2016
+  <blockquote>
+    <p><em>&quot;We could always turn into the disposers. We could be the disposable, but we can also be the disposers. And for that we have to really think hard about Arendt's warnings to all of us. And the warning, I think, Arendt, offers us, a timely one, is that you become a disposer if you begin to look at photographs of people and you just see masses without any stories, or any names. You become a disposer, if you begin to talk about people as categories. You become a disposer when you can no longer tolerate complexity. And that means individual people's lives.&quot;</em></p>
+  </blockquote>
 
-[Disposable Life - Cynthia Enloe](https://vimeo.com/84972560) (Video duration: 00:14:19)
-
-  > _"We could always turn into the disposers. We could be the disposable, but we can also be the disposers. And for that we have to really think hard about Arendt's warnings to all of us. And the warning, I think, Arendt, offers us, a timely one, is that you become a disposer if you begin to look at photographs of people and you just see masses without any stories, or any names. You become a disposer, if you begin to talk about people as categories. You become a disposer when you can no longer tolerate complexity. And that means individual people's lives."_
+</details>
 
 ## 02/10/2016
 
