@@ -134,21 +134,24 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 </details>
 
-## 02/10/2016
+<details>
+  <summary>02/10/2016 | <a href="https://web.stanford.edu/~protass/files/Calvino_Six%20Memos%20for%20the%20Next%20Millenium.pdf">Lecture: LIGHTNESS, Six Memos for the Next Millenium, Italo Calvino</a></summary>
 
-_Soundtrack of the day: **The Zero Theorem (Music From the Motion Picture), By George Fenton**_
+  <p><em>Soundtrack of the day: <strong>The Zero Theorem (Music From the Motion Picture), By George Fenton</strong></em></p>
 
-[Lecture: LIGHTNESS, Six Memos for the Next Millenium, Italo Calvino](https://web.stanford.edu/~protass/files/Calvino_Six%20Memos%20for%20the%20Next%20Millenium.pdf)
+  <blockquote>
+    <p><em>&quot;Today every branch of science seems intent on demonstrating that the world is supported by the most minute entities, such as the messages of DNA, the impulses of neurons, and quarks, and neutrinos wandering through space since the beginning of time...&quot;</em></p>
+  </blockquote>
 
-  > _"Today every branch of science seems intent on demonstrating that the world is supported by the most minute entities, such as the messages of DNA, the impulses of neurons, and quarks, and neutrinos wandering through space since the beginning of time..."_
+  <blockquote>
+    <p><em>&quot;Lucretius' chief concern is to prevent the weight of matter from crushing us. Even while laying down the rigorous mechanical laws that determine every event, he feels the need to allow atoms to make unpredictable deviations from the straight line, thereby ensuring freedom both to atoms and to human beings.&quot;</em></p>
+  </blockquote>
 
-  > [...]
+  <blockquote>
+    <p><em>&quot;Were I to choose an auspicious image for the new millennium, I would choose this one: The sudden agile leap of the poet-philosopher who raises himself above the weight of the world, showing that with all his gravity he has the secret of lightness, and that what many consider to be the vitality of the times--noisy, aggressive, revving and roaring--belongs to the realm of death, like a cemetery for rusty, old cars.&quot;</em></p>
+  </blockquote>
 
-  > _"Lucretius' chief concern is to prevent the weight of matter from crushing us. Even while laying down the rigorous mechanical laws that determine every event, he feels the need to allow atoms to make unpredictable deviations from the straight line, thereby ensuring freedom both to atoms and to human beings."_
-
-  > [...]
-
-  > _"Were I to choose an auspicious image for the new millennium, I would choose this one: The sudden agile leap of the poet-philosopher who raises himself above the weight of the world, showing that with all his gravity he has the secret of lightness, and that what many consider to be the vitality of the times--noisy, aggressive, revving and roaring--belongs to the realm of death, like a cemetery for rusty, old cars."_
+</details>
 
 ## 01/10/2016
 

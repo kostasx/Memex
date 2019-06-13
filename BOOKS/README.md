@@ -27,6 +27,15 @@
 </details>
 
 <details>
+    <summary>Πριν το Τέλος | Κρίστοφερ Χίτσενς</summary>
+    <p>Εκδόσεις Μεταίχμιο</p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Γεναίος; Χα! Κράτα τον χαρακτηρισμό για καμιά μάχη από την οποία δεν μπορείς να το σκάσεις.&quot;</em></p>
+    </blockquote>
+</details>
+
+<details>
     <summary>Toxic Sludge Is Good for You: Lies, Damn Lies and the Public Relations Industry | John Stauber, Sheldon Rampton</summary>
     <p>Finished reading: ...</p>
     <p><a href="https://www.goodreads.com/book/show/659246.Toxic_Sludge_Is_Good_for_You">goodreads.com link</a></p>
