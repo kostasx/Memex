@@ -131,7 +131,6 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   <blockquote>
     <p><em>&quot;We could always turn into the disposers. We could be the disposable, but we can also be the disposers. And for that we have to really think hard about Arendt's warnings to all of us. And the warning, I think, Arendt, offers us, a timely one, is that you become a disposer if you begin to look at photographs of people and you just see masses without any stories, or any names. You become a disposer, if you begin to talk about people as categories. You become a disposer when you can no longer tolerate complexity. And that means individual people's lives.&quot;</em></p>
   </blockquote>
-
 </details>
 
 <details>
@@ -150,16 +149,19 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   <blockquote>
     <p><em>&quot;Were I to choose an auspicious image for the new millennium, I would choose this one: The sudden agile leap of the poet-philosopher who raises himself above the weight of the world, showing that with all his gravity he has the secret of lightness, and that what many consider to be the vitality of the times--noisy, aggressive, revving and roaring--belongs to the realm of death, like a cemetery for rusty, old cars.&quot;</em></p>
   </blockquote>
-
 </details>
 
-## 01/10/2016
+<details>
 
-_Soundtrack of the day: **Brian Eno**_
+  <summary>01/10/2016 | <a href="https://www.youtube.com/watch?v=tnBQmEqBCY0">Elon Musk : How to Build the Future</a> (Video duration: 00:19:32)
+  </summary>
 
-[Elon Musk : How to Build the Future](https://www.youtube.com/watch?v=tnBQmEqBCY0) (Video duration: 00:19:32)
+  <p><em>Soundtrack of the day: <strong>Brian Eno</strong></em></p>
 
-  > _"Entropy is not on your side."_
+  <blockquote>
+  <p><em>&quot;Entropy is not on your side.&quot;</em></p>
+  </blockquote>
+</details>
 
 ## 26/09/2016
 
@@ -171,7 +173,7 @@ _Soundtrack of the day: **Brian Eno**_
 
 ## 24/09/2016
 
-_Soundtrack of the day: [Across the Universe, Kurt Cobain cover](https://www.youtube.com/watch?v=PxucQe-3gMY)_
+_Soundtrack of the day: [Across the Universe](https://www.youtube.com/watch?v=PxucQe-3gMY)_
 
 [Ιγνάσιο Ραμονέ: Το Διαδίκτυο και η αυτοκρατορία της επιτήρησης](https://left.gr/news/ignasio-ramone-diadiktyo-kai-i-aytokratoria-tis-epitirisis) (ERT: 00:14:42 | Words: 2940)
 
@@ -214,11 +216,12 @@ _Soundtrack of the day: [Andreas Loesch, Endure, from the album: 'The Phoboslab 
   
   > _"Remember that the presence of a device [in a conversation] already signals your attention is divided."_
 
-## 10/09/2016
-
-[It's all in our heads](http://news.mit.edu/2016/all-in-our-heads-marika-landau-wells-0223) (ERT: 00:04:31 | Words: 905)
-
-  > Political science PhD student Marika Landau-Wells is using psychology and neuroscience to better understand political behavior.
+<details>
+  <summary>10/09/2016 | <a href="http://news.mit.edu/2016/all-in-our-heads-marika-landau-wells-0223">It's all in our heads</a> (ERT: 00:04:31 | Words: 905)</summary>
+  <blockquote>
+  <p>Political science PhD student Marika Landau-Wells is using psychology and neuroscience to better understand political behavior.</p>
+  </blockquote>
+</details>
 
 ## 08/09/2016
 

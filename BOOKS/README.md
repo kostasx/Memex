@@ -1,3 +1,5 @@
+<hr>
+
 <details>
     <summary>Thinking, Fast and Slow | Daniel Kahneman</summary>
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Thinking%2C_Fast_and_Slow.jpg/220px-Thinking%2C_Fast_and_Slow.jpg"
@@ -12,6 +14,14 @@
      />
     <p>Finished reading: 2019</p>
     <p><a href="https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind">Wikipedia link</a></p>
+</details>
+
+<details>
+    <summary>Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right | Angela Nagle</summary>
+    <img src="https://en.wikipedia.org/wiki/Kill_All_Normies#/media/File:Killallnormies.jpg" />
+    <p>Finished reading: 2018</p>
+    <p>Publisher: Zero Books</p>
+    <p><a href="https://en.wikipedia.org/wiki/Kill_All_Normies">Wikipedia link</a></p>
 </details>
 
 <details>
