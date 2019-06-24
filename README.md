@@ -115,7 +115,6 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   <p><a href="https://www.1843magazine.com/story/a-practitioners-guide-to-hedonism">A practitioner’s guide to hedonism, Anthony Gottlieb</a></p>
 </details>
 
-
 <details>
   <summary>24/04/2017 | <a href="https://www.theguardian.com/technology/2017/apr/19/facebook-mind-reading-technology-f8">Facebook has 60 people working on how to read your mind</a></summary>
   <p>(ERT: 00:05:15 | Words: 1052)</p>
@@ -163,29 +162,33 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   </blockquote>
 </details>
 
-## 26/09/2016
+<details>
+  <summary>26/09/2016 | <a href="https://www.youtube.com/watch?v=n0OqA0pmAag">Technology and the Brain, the Latest Research and Findings: Larry Rosen</a> (Video duration: 00:20:37)</summary>
+  <blockquote>
+  <p><em>Visiting 1 website, just once in the 15 minutes, led to worst grades. Can you guess what website? Facebook.&quot;</em></p>
+  </blockquote>
+  <blockquote>
+  <p><em>&quot;How can you be working when part of your brain, 25 seconds before, is already getting excited about switching to Facebook, a video or games?&quot;</em></p>
+  </blockquote>
+</details>
 
-[Technology and the Brain, the Latest Research and Findings: Larry Rosen](https://www.youtube.com/watch?v=n0OqA0pmAag) (Video duration: 00:20:37)
-
-  > _Visiting 1 website, just once in the 15 minutes, led to worst grades. Can you guess what website? Facebook."_
-
-  > _"How can you be working when part of your brain, 25 seconds before, is already getting excited about switching to Facebook, a video or games?"_
-
-## 24/09/2016
-
-_Soundtrack of the day: [Across the Universe](https://www.youtube.com/watch?v=PxucQe-3gMY)_
-
-[Ιγνάσιο Ραμονέ: Το Διαδίκτυο και η αυτοκρατορία της επιτήρησης](https://left.gr/news/ignasio-ramone-diadiktyo-kai-i-aytokratoria-tis-epitirisis) (ERT: 00:14:42 | Words: 2940)
-
-  > _"Το σημερινό σύστημα μας κάνει όχι μόνο να είμαστε υπό επιτήρηση, αλλά και να παρακολουθούμε κι εμείς τους άλλους. Αυτό είναι η διαστροφή του συστήματος. [...] Δεν είναι εύκολο να αντιληφθείς ότι εσύ ο ίδιος συνεισφέρεις στην παρακολούθησή σου."_
-
-  > _"El sistema hoy de hace nosotros, ya no sólo personas vigiladas, sino que quiere que nosotros mismos seamos vigilantes. Esto es una perversión del sistema. [...] "_
-
-  > _"H επιτήρηση ήδη δεν είναι όπως πριν. Τώρα πια δεν είναι ανάγκη να βάλεις κοριό σε τηλέφωνα. Εγώ ο ίδιος αγόρασα το iPhone μου, τον υπολογιστή μου και το iPad μου. Για να μας επιτηρεί κάποιος, αρκούν αυτές οι συσκευές και όσα κάνουμε με αυτές, οι οποίες μετατρέπονται έτσι σε βραχιόλι παρακολούθησης. **Δεν είναι εύκολο να αντιληφθείς ότι εσύ ο ίδιος συνεισφέρεις στην παρακολούθησή σου.**"_
-
-  > _"La vigilancia ya no es como antes. Hoy ya no es necesario pinchar teléfonos porque yo mismo me he comprado mi iPhone, mi ordenador o mi iPad. Basta con vigilar, y se puede hacer a distancia, lo que hago con estos aparatos, que se convierten en una especie de pulsera de seguimiento. No es fácil tomar conciencia de que tú mismo estás contribuyendo a tu propia vigilancia."_
-
-[Original article](http://www.publico.es/internacional/ignacio-ramonet-entrevista-imperio-vigilancia.html)
+<details>
+  <summary>24/09/2016 | <a href="https://left.gr/news/ignasio-ramone-diadiktyo-kai-i-aytokratoria-tis-epitirisis">Ιγνάσιο Ραμονέ: Το Διαδίκτυο και η αυτοκρατορία της επιτήρησης</a> (ERT: 00:14:42 | Words: 2940)</summary>
+  <p><em>Soundtrack of the day: <a href="https://www.youtube.com/watch?v=PxucQe-3gMY">Across the Universe</a></em></p>
+  <blockquote>
+  <p><em>&quot;Το σημερινό σύστημα μας κάνει όχι μόνο να είμαστε υπό επιτήρηση, αλλά και να παρακολουθούμε κι εμείς τους άλλους. Αυτό είναι η διαστροφή του συστήματος. [...] Δεν είναι εύκολο να αντιληφθείς ότι εσύ ο ίδιος συνεισφέρεις στην παρακολούθησή σου.&quot;</em></p>
+  </blockquote>
+  <blockquote>
+  <p><em>&quot;El sistema hoy de hace nosotros, ya no sólo personas vigiladas, sino que quiere que nosotros mismos seamos vigilantes. Esto es una perversión del sistema. [...] &quot;</em></p>
+  </blockquote>
+  <blockquote>
+  <p><em>&quot;H επιτήρηση ήδη δεν είναι όπως πριν. Τώρα πια δεν είναι ανάγκη να βάλεις κοριό σε τηλέφωνα. Εγώ ο ίδιος αγόρασα το iPhone μου, τον υπολογιστή μου και το iPad μου. Για να μας επιτηρεί κάποιος, αρκούν αυτές οι συσκευές και όσα κάνουμε με αυτές, οι οποίες μετατρέπονται έτσι σε βραχιόλι παρακολούθησης. <strong>Δεν είναι εύκολο να αντιληφθείς ότι εσύ ο ίδιος συνεισφέρεις στην παρακολούθησή σου.</strong>&quot;</em></p>
+  </blockquote>
+  <blockquote>
+  <p><em>&quot;La vigilancia ya no es como antes. Hoy ya no es necesario pinchar teléfonos porque yo mismo me he comprado mi iPhone, mi ordenador o mi iPad. Basta con vigilar, y se puede hacer a distancia, lo que hago con estos aparatos, que se convierten en una especie de pulsera de seguimiento. No es fácil tomar conciencia de que tú mismo estás contribuyendo a tu propia vigilancia.&quot;</em></p>
+  </blockquote>
+  <p><a href="http://www.publico.es/internacional/ignacio-ramonet-entrevista-imperio-vigilancia.html">Original article</a></p>
+</details>
 
 <details>
   <summary>22/09/2016 | <a href="https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design">S.O.L.I.D: The First 5 Principles of Object Oriented Design</a></summary>
@@ -202,19 +205,22 @@ _Soundtrack of the day: [Across the Universe](https://www.youtube.com/watch?v=Px
   </blockquote>
 </details>
 
-## 17/09/2016
-
-_Soundtrack of the day: [Andreas Loesch, Endure, from the album: 'The Phoboslab Works'](http://no-fate.net/)_
-
-[Sherry Turkle: "Reclaiming Conversation: The Power of Talk in a Digital Age"](https://www.youtube.com/watch?v=DyvJ6mqfJ6o) (Video duration: 00:44:47)
-
-  > _"Digital communication, has gotten us accustomed to the edited life, we've got to reconsider that the unedited life is also worth living."_
-
-  > _"Conversation, like life, has silences. It has boring bits. And it's often in the moments when we stumble, and we hesitate, and we fall silent, and we're not so perfect, that we reveal ourself to each other."_
-
-  > _"The capacity for solitude, is closely linked to the capacity for relationship."_
-  
-  > _"Remember that the presence of a device [in a conversation] already signals your attention is divided."_
+<details>
+  <summary>17/09/2016 | <a href="https://www.youtube.com/watch?v=DyvJ6mqfJ6o">Sherry Turkle: &quot;Reclaiming Conversation: The Power of Talk in a Digital Age&quot;</a> (Video duration: 00:44:47)</summary>
+  <p><em>Soundtrack of the day: <a href="http://no-fate.net/">Andreas Loesch, Endure, from the album: 'The Phoboslab Works'</a></em></p>
+  <blockquote>
+  <p><em>&quot;Digital communication, has gotten us accustomed to the edited life, we've got to reconsider that the unedited life is also worth living.&quot;</em></p>
+  </blockquote>
+  <blockquote>
+  <p><em>&quot;Conversation, like life, has silences. It has boring bits. And it's often in the moments when we stumble, and we hesitate, and we fall silent, and we're not so perfect, that we reveal ourself to each other.&quot;</em></p>
+  </blockquote>
+  <blockquote>
+  <p><em>&quot;The capacity for solitude, is closely linked to the capacity for relationship.&quot;</em></p>
+  </blockquote>
+  <blockquote>
+  <p><em>&quot;Remember that the presence of a device [in a conversation] already signals your attention is divided.&quot;</em></p>
+  </blockquote>
+</details>
 
 <details>
   <summary>10/09/2016 | <a href="http://news.mit.edu/2016/all-in-our-heads-marika-landau-wells-0223">It's all in our heads</a> (ERT: 00:04:31 | Words: 905)</summary>

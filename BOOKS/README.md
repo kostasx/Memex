@@ -46,6 +46,19 @@
 </details>
 
 <details>
+    <summary>The Culture of Fear: Why Americans Are Afraid of the Wrong Things | Barry Glassner</summary>
+    <p>Basic Books</p>
+    <p><a href="https://en.wikipedia.org/wiki/Culture_of_fear">Wikipedia link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Disproportionate coverage in the news media plainly has effects on readers and viewers. When Esther Madriz, a professor at Hunter College, interviewed women in New York City about their fears of crime they frequently responded with the phrase "I saw it in the news." The interviewees identified the news media as both the source of their fears and the reason they believed those fears were valid. Asked in a national poll why they believe the country has a serious crime problem, 76 percent of people cited stories they had seen in the media. Only 22 percent cited personal experience.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;Television news programs survive on scares. On local newscasts, where producers live by the dictum "if it bleeds, it leads," drug, crime, and disaster stories make up most of the news portion of the broadcasts. Evening newscasts on the major networks are somewhat less bloody, but between 1990 and 1998, when the nation's murder rate declined by 20 percent, the number of murder stories on network newscasts increased 600 percent (not counting stories about O.J. Simpson).&quot;</em></p>
+    </blockquote>
+</details>
+
+<details>
     <summary>Toxic Sludge Is Good for You: Lies, Damn Lies and the Public Relations Industry | John Stauber, Sheldon Rampton</summary>
     <p>Finished reading: ...</p>
     <p><a href="https://www.goodreads.com/book/show/659246.Toxic_Sludge_Is_Good_for_You">goodreads.com link</a></p>
