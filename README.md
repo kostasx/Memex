@@ -229,27 +229,28 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   </blockquote>
 </details>
 
-## 08/09/2016
+<details>
+  <summary>08/09/2016 | <a href="http://www.nytimes.com/2016/07/10/fashion/dating-text-messages-breadcrumbing.html">The Agony of the Digital Tease, By Jessica Bennett, The New York Times</a> (ERT: 00:05:38 | Words: 1128)</summary>
+  <p><em>Soundtrack of the day: Το Μινόρε της Αυγής</em></p>
+  <blockquote>
+  <p>For anyone who’s ever dated, or maintained any kind of relationship, in the digital age, you have probably known a breadcrumber. They communicate via sporadic noncommittal, but repeated messages — or breadcrumbs — that are just enough to keep you wondering but not enough to seal the deal (whatever that deal may be).</p>
+  </blockquote>
+</details>
 
-_Soundtrack of the day: Το Μινόρε της Αυγής_
-
-[The Agony of the Digital Tease, By Jessica Bennett, The New York Times](http://www.nytimes.com/2016/07/10/fashion/dating-text-messages-breadcrumbing.html) (ERT: 00:05:38 | Words: 1128)
-
-  > For anyone who’s ever dated, or maintained any kind of relationship, in the digital age, you have probably known a breadcrumber. They communicate via sporadic noncommittal, but repeated messages — or breadcrumbs — that are just enough to keep you wondering but not enough to seal the deal (whatever that deal may be).
-
-## 07/09/2016
-
-_Soundtrack of the day: The Zero Theorem Original Soundtrack, George Fenton_
-
-[Connected, but alone?](http://www.ted.com/talks/sherry_turkle_alone_together) (Video duration: 00:19:41)
-
-  > Over the past 15 years, I've studied technologies of mobile communication and I've interviewed hundreds and hundreds of people, young and old, about their plugged in lives. And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.
-
-  > And I believe it's because technology appeals to us most where we are most vulnerable. And we are vulnerable. We're lonely, but we're afraid of intimacy. And so from social networks to sociable robots, we're designing technologies that will give us the illusion of companionship without the demands of friendship. We turn to technology to help us feel connected in ways we can comfortably control. But we're not so comfortable. We are not so much in control.
-
-[The Love App: Romance in the world’s most wired city, By Lauren Collins, The New Yorker](http://www.newyorker.com/magazine/2013/11/25/the-love-app) (ERT: 00:30:54 | Words: 6182)
-
-  > V.C.N.C., a startup based in Seoul, has created an app for couples like Jimin and Yundi. It’s called Between, “a beautiful space where you can share all your moments only with the one that matters.” It provides a private system by which couples exchange voice and text messages, share photo albums, and post notes on a memo board. 
+<details>
+  <summary>07/09/2016 | <a href="http://www.ted.com/talks/sherry_turkle_alone_together">Connected, but alone?</a> (Video duration: 00:19:41)</summary>
+  <p><em>Soundtrack of the day: The Zero Theorem Original Soundtrack, George Fenton</em></p>
+  <blockquote>
+  <p>Over the past 15 years, I've studied technologies of mobile communication and I've interviewed hundreds and hundreds of people, young and old, about their plugged in lives. And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.</p>
+  </blockquote>
+  <blockquote>
+  <p>And I believe it's because technology appeals to us most where we are most vulnerable. And we are vulnerable. We're lonely, but we're afraid of intimacy. And so from social networks to sociable robots, we're designing technologies that will give us the illusion of companionship without the demands of friendship. We turn to technology to help us feel connected in ways we can comfortably control. But we're not so comfortable. We are not so much in control.</p>
+  </blockquote>
+  <p><a href="http://www.newyorker.com/magazine/2013/11/25/the-love-app">The Love App: Romance in the world’s most wired city, By Lauren Collins, The New Yorker</a> (ERT: 00:30:54 | Words: 6182)</p>
+  <blockquote>
+  <p>V.C.N.C., a startup based in Seoul, has created an app for couples like Jimin and Yundi. It’s called Between, “a beautiful space where you can share all your moments only with the one that matters.” It provides a private system by which couples exchange voice and text messages, share photo albums, and post notes on a memo board.</p>
+  </blockquote>
+</details>
 
 ## 05/09/2016
 

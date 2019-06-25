@@ -70,3 +70,18 @@
         <p><em>&quot;On the surface it seemed like an ordinary publicity stunt for 'female emancipation'. [...] A contingent of New York debutantes marched down Fifth Avenue in the 1929 Easter Parade, each openly lighting and smoking cigarettes. It was the first time in the memory of most Americans that any woman who wasn't a prostitute had been seen smoking in public. It was dubbed the &quot;torches of liberty contingent&quot; by Edward Bernays, its brilliant behind-the-scenes organizer. [...] later admitted that he had been paid a tidy sum to orchestrate the march by George Washington Hill, president of the American Tobacco Company. [...] it had achieved its goal of breaking the taboo against female smoking.&quot;</em></p>
     </blockquote>
 </details>
+
+<details>
+    <summary>The Culture of Make Believe | Derrick Jensen</summary>
+    <img src="culture-of-make-believe.jpeg" alt="The Culture of Make Believe by author Derrick Jensen"/>
+    <p>Finished reading: ...</p>
+    <p><a href="https://en.wikipedia.org/wiki/The_Culture_of_Make_Believe">Wikipedia link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;When discussing hate groups, why do we so often constrict our vision to include only the most absurd, the most grotesque, the most individual or small-scale of crimes? Why not go after larger targets? What about hatred or exploitation that is systematic, that is codified, that hides behind the screen of law, religion, philosophy, science?&quot;</em></p>
+    </blockquote>
+</details>
+
+
+
+<details>
