@@ -73,7 +73,7 @@
 
 <details>
     <summary>The Culture of Make Believe | Derrick Jensen</summary>
-    <img src="culture-of-make-believe.jpeg" alt="The Culture of Make Believe by author Derrick Jensen"/>
+    <img src="images/culture-of-make-believe.jpeg" alt="The Culture of Make Believe by author Derrick Jensen"/>
     <p>Finished reading: ...</p>
     <p><a href="https://en.wikipedia.org/wiki/The_Culture_of_Make_Believe">Wikipedia link</a></p>
     <h3>Quotes</h3>
@@ -81,7 +81,3 @@
         <p><em>&quot;When discussing hate groups, why do we so often constrict our vision to include only the most absurd, the most grotesque, the most individual or small-scale of crimes? Why not go after larger targets? What about hatred or exploitation that is systematic, that is codified, that hides behind the screen of law, religion, philosophy, science?&quot;</em></p>
     </blockquote>
 </details>
-
-
-
-<details>
