@@ -72,6 +72,28 @@
 </details>
 
 <details>
+    <summary>Ο Αλγόριθμος της Μελαγχολίας | Κάρλο Φραμπέτι</summary>
+    <p>Finished reading: ...</p>
+    <p>Publisher: Opera</p>
+    <p><a href="https://www.operabooks.gr/book_details/82/4/1/">Publisher's Website Link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Ποιά είναι η καλύτερη ερώτηση που μπορεί να τεθεί, και ποιά είναι η καλύτερη απάντηση που μπορεί να δοθεί;" ρώτησε ο Επιμενίδης. Και ο Βούδας αποκρίθηκε: "Η καλύτερη ερώτηση που μπορεί να τεθεί, είναι αυτή που μόλις μου έθεσες, και η καλύτερη απάντηση που μπορεί να δοθεί, είναι αυτή που σου δίνω τώρα.&quot;</em></p>
+    </blockquote>
+</details>
+
+<details>
+    <summary>Απολογία ενός Ανθέλληνα | Νίκος Δήμου</summary>
+    <p>Finished reading: ...</p>
+    <p>Publisher: Opera</p>
+    <p><a href="http://www.ndimou.gr/el/keimena/anthologia/dokimia/apologia/">Link from Author's site</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Στις σχέσεις λαών (και ανθρώπων) το απόλυτο είναι τερατώδες. Οδηγεί σε θηριωδίες και καταστροφές. Πρέπει να καταπολεμηθεί κάθε τι το απόλυτο, κάθε άποψη που γεννάει φανατισμό και αποκλεισμό του άλλου. Ο συμβιβασμός δεν είναι ταπείνωση – είναι η ουσία της ανθρωπιάς, το παιδί του διαλόγου, η σοφία της δημοκρατίας.&quot;</em></p>
+    </blockquote>
+</details>
+
+<details>
     <summary>The Culture of Make Believe | Derrick Jensen</summary>
     <img src="images/culture-of-make-believe.jpeg" alt="The Culture of Make Believe by author Derrick Jensen"/>
     <p>Finished reading: ...</p>

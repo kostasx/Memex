@@ -252,23 +252,23 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   </blockquote>
 </details>
 
-## 05/09/2016
+<details>
+  <summary>05/09/2016 | <a href="http://www.newyorker.com/magazine/2016/05/23/why-dating-is-drudgery">Work It - Is dating worth the effort?, By Alexandra Schwartz, The New Yorker, May 23, 2016</a> (ERT: 00:22:15 | Words: 4452)</summary>
+  <p><em>Soundtrack of the day: <a href="http://www.mogwai.co.uk/music/les-revenants/">MOGWAI - Les Revenants</a></em></p>
+  <blockquote>
+  <p>&quot;Reading [Moira] Weigel’s “Labor of Love, [The Invention of Dating]” you can get the sense that women are now pinballing among the worst of all the dating systems that have come before. Like the shopgirls of the twenties, Weigel says, we turn ourselves into commodities, typing up dating-site profiles as if they were product descriptions, placing orders on one person and disposing of the next with a single swipe.&quot;</p>
+  </blockquote>
+  <blockquote>
+  <p>&quot;Another girl tells [Nancy Jo] Sales that social media is “destroying our lives.” Sales asks why she doesn’t quit. “Because then we would have no life,” she is told.&quot;</p>
+  </blockquote>
+</details>
 
-_Soundtrack of the day: [MOGWAI - Les Revenants](http://www.mogwai.co.uk/music/les-revenants/)_
-
-[Work It - Is dating worth the effort?, By Alexandra Schwartz, The New Yorker, May 23, 2016](http://www.newyorker.com/magazine/2016/05/23/why-dating-is-drudgery) (ERT: 00:22:15 | Words: 4452)
-
-  > "Reading [Moira] Weigel’s “Labor of Love, [The Invention of Dating]” you can get the sense that women are now pinballing among the worst of all the dating systems that have come before. Like the shopgirls of the twenties, Weigel says, we turn ourselves into commodities, typing up dating-site profiles as if they were product descriptions, placing orders on one person and disposing of the next with a single swipe."
-
-  > "Another girl tells [Nancy Jo] Sales that social media is “destroying our lives.” Sales asks why she doesn’t quit. “Because then we would have no life,” she is told."
-
-## 04/09/2016
-
-[American Experience: A Brilliant Madness](http://www.pbs.org/wgbh/amex/nash/index.html) (Video duration: 00:55:00)
-
-  The life of the Nobel Prize-winning mathematician and schizophrenic John Nash
-
-  > _"Three years later, he graduated from Carnegie Institute of Technology with a master's degree in math. His adviser wrote him an one-sentence recommendation: 'This man is a genius.'_
+<details>
+  <summary>04/09/2016 | <a href="http://www.pbs.org/wgbh/amex/nash/index.html">American Experience: A Brilliant Madness - The life of the Nobel Prize-winning mathematician and schizophrenic John Nash</a> (Video duration: 00:55:00)</summary>
+  <blockquote>
+  <p><em>&quot;Three years later, he graduated from Carnegie Institute of Technology with a master's degree in math. His adviser wrote him an one-sentence recommendation: 'This man is a genius.'</em></p>
+  </blockquote>
+</details>
 
 ## 01/09/2016
 
