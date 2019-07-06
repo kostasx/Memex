@@ -4,6 +4,14 @@ A list of (my) morning readings (and occasional video viewing).
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>06/07/2019 | <a href="http://www.bbc.com/future/story/20130114-are-we-naturally-good-or-bad">Are we naturally good or bad? | By Tom Stafford</a></summary>
+  <br/>
+  <blockquote><em>&quot;tightly bound into the nature of our developing minds is the ability to make sense of the world in terms of motivations, and a basic instinct to prefer friendly intentions over malicious ones. It is on this foundation that adult morality is built.&quot;<em></blockquote>
+  <br>
+  <a href="ARCHIVE/Are we naturally good or bad.txt">Local copy</a>
+<details>
+
+<details>
   <summary>09/05/2019 | <a href="https://testandcode.com/71">Memorable Tech Talks, The Ultimate Guide - Nina Zakharenko</a></summary>
 
   <br/>
