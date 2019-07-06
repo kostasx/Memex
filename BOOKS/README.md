@@ -103,3 +103,18 @@
         <p><em>&quot;When discussing hate groups, why do we so often constrict our vision to include only the most absurd, the most grotesque, the most individual or small-scale of crimes? Why not go after larger targets? What about hatred or exploitation that is systematic, that is codified, that hides behind the screen of law, religion, philosophy, science?&quot;</em></p>
     </blockquote>
 </details>
+
+<details>
+    <summary>Πορνογραφία και Αισχρότητα | D.H. Lawrence</summary>
+    <p></p>
+    <p>Finished reading: ...</p>
+    <p>Publisher: ΡΟΕΣ | microMEGA</p>
+    <p><a href="">link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;…ποτέ η όρεξη για πορνογραφία δεν ήταν δυνατότερη από όσο σήμερα. Αποτελεί σημάδι της αρρωστημένης κατάστασης της πολιτείας / κοινωνίας. Αλλά ο τρόπος για να γιατρευτεί η αρρώστια είναι να μιλάμε ανοιχτά για το σεξ και το σεξουαλικό ερέθισμα. [...] Μόνο μια φυσική, φρέσκια ειλικρίνεια σχετικά με το σεξ θα ωφελούσε, τώρα που έχουμε κατακλυστεί από την κρυφή ή μισόκρυφή πορνογραφία. Και ίσως οι παραμυθάδες της Αναγέννησης, ο Βοκκάκιος, ο Λάσκα και οι υπόλοιποι να είναι το καλύτερο αντίδοτο που μπορούμε να βρούμε τώρα, ακριβώς όπως το περισσότερο μπλάστρωμα με πουριτανισμό είναι η πιο επιζήμια θεραπεία που μπορούμε να ακολουθήσουμε.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;Διότι κάθε άνθρωπος έχει μέσα του και τον όχλο και το άτομο, σε διαφορετικές αναλογίες. Μερικοί έχουν σχεδόν αποκλειστικά τον όχλο μέσα τους, είναι ανίκανοι για ευφάνταστες ατομικές αντιδράσεις. […] Η αντίδραση του καθενός σε μια λέξη μπορεί να είναι αντίδραση είτε του όχλου, είτε ατομική. Εναπόκειται στον άνθρωπο να αναρωτηθεί: Είναι η αντίδρασή μου ατομική, ή απλώς αντιδρώ με την ιδιότητα του όχλου;&quot;</em></p>
+    </blockquote>
+</details>
