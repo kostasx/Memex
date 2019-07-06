@@ -1,3 +1,5 @@
+<p>Currently reading:<br><strong>Η ΑΛΓΟΡΙΘΜΙΚΗ ΤΕΧΝΗ ΤΩΝ ΑΠΟΦΑΣΕΩΝ</strong>:<br>Η επιστήμη των υπολογιστών στην καθημερινή ζωή<br>BRIAN CHRISTIAN & TOM GRIFFITHS</p>
+    
 <hr>
 
 <details>
