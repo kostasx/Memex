@@ -4,6 +4,22 @@ A list of (my) morning readings (and occasional video viewing).
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>07/07/2019 | Maths & Machine Learning | <em>How a statistical formula won the war | Gavyn Davies does the maths</em> / <em>When to use different machine learning algorithms: a simple guide</em></summary>
+  <ul>
+    <li>
+      <p><a href="https://www.theguardian.com/world/2006/jul/20/secondworldwar.tvandradio">How a statistical formula won the war | Gavyn Davies does the maths</a></p>
+      <p><a href="ARCHIVE/How a statistical formula won the war.txt">Local Copy</a></p>
+      <p><blockquote><em>&quot;It is the story of how a simple statistical formula successfully estimated the number of tanks the enemy was producing, at a time when this could not be directly observed by the allied spy network.&quot;</em></blockquote></p>
+      <p><blockquote><em>&quot;The statisticians had one key piece of information, which was the serial numbers on captured mark V tanks. The statisticians believed that the Germans, being Germans, had logically numbered their tanks in the order in which they were produced. And this deduction turned out to be right. It was enough to enable them to make an estimate of the total number of tanks that had been produced up to any given moment.&quot;</em></blockquote></p>
+      <p><blockquote><em>&quot;[T]the statisticians reckoned that a good estimator of the number of tanks would probably be provided by the simple equation (M-1)(S+1)/S. [...] By using this formula, statisticians reportedly estimated that the Germans produced 246 tanks per month between June 1940 and September 1942.&quot;</em></blockquote></p>
+      <p><blockquote><em>&quot;By using this formula, statisticians reportedly estimated that the Germans produced 246 tanks per month between June 1940 and September 1942. At that time, standard intelligence estimates had believed the number was far, far higher, at around 1,400. After the war, the allies captured German production records, showing that the true number of tanks produced in those three years was 245 per month, almost exactly what the statisticians had calculated, and less than one fifth of what standard intelligence had thought likely.&quot;</em></blockquote></p>
+      <p></p>
+    </li>
+    <li><a href="https://www.freecodecamp.org/news/when-to-use-different-machine-learning-algorithms-a-simple-guide-ba615b19fb3b/">When to use different machine learning algorithms: a simple guide</a></li>
+  </ul>
+</details>
+
+<details>
   <summary>06/07/2019 | <a href="http://www.bbc.com/future/story/20130114-are-we-naturally-good-or-bad">Are we naturally good or bad? | By Tom Stafford</a></summary>
   <br/>
   <blockquote><em>&quot;tightly bound into the nature of our developing minds is the ability to make sense of the world in terms of motivations, and a basic instinct to prefer friendly intentions over malicious ones. It is on this foundation that adult morality is built.&quot;</em></blockquote>

@@ -108,15 +108,51 @@
 
 <details>
     <summary>Πορνογραφία και Αισχρότητα | D.H. Lawrence</summary>
-    <p></p>
     <p>Finished reading: ...</p>
     <p>Publisher: ΡΟΕΣ | microMEGA</p>
-    <p><a href="">link</a></p>
+    <p><a href="http://www.biblionet.gr/book/4137/Lawrence,_David_Herbert,_1885-1930/%CE%A0%CE%BF%CF%81%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CE%BA%CE%B1%CE%B9_%CE%B1%CE%B9%CF%83%CF%87%CF%81%CF%8C%CF%84%CE%B7%CF%84%CE%B1">link</a></p>
     <h3>Quotes</h3>
     <blockquote>
         <p><em>&quot;…ποτέ η όρεξη για πορνογραφία δεν ήταν δυνατότερη από όσο σήμερα. Αποτελεί σημάδι της αρρωστημένης κατάστασης της πολιτείας / κοινωνίας. Αλλά ο τρόπος για να γιατρευτεί η αρρώστια είναι να μιλάμε ανοιχτά για το σεξ και το σεξουαλικό ερέθισμα. [...] Μόνο μια φυσική, φρέσκια ειλικρίνεια σχετικά με το σεξ θα ωφελούσε, τώρα που έχουμε κατακλυστεί από την κρυφή ή μισόκρυφή πορνογραφία. Και ίσως οι παραμυθάδες της Αναγέννησης, ο Βοκκάκιος, ο Λάσκα και οι υπόλοιποι να είναι το καλύτερο αντίδοτο που μπορούμε να βρούμε τώρα, ακριβώς όπως το περισσότερο μπλάστρωμα με πουριτανισμό είναι η πιο επιζήμια θεραπεία που μπορούμε να ακολουθήσουμε.&quot;</em></p>
     </blockquote>
     <blockquote>
         <p><em>&quot;Διότι κάθε άνθρωπος έχει μέσα του και τον όχλο και το άτομο, σε διαφορετικές αναλογίες. Μερικοί έχουν σχεδόν αποκλειστικά τον όχλο μέσα τους, είναι ανίκανοι για ευφάνταστες ατομικές αντιδράσεις. […] Η αντίδραση του καθενός σε μια λέξη μπορεί να είναι αντίδραση είτε του όχλου, είτε ατομική. Εναπόκειται στον άνθρωπο να αναρωτηθεί: Είναι η αντίδρασή μου ατομική, ή απλώς αντιδρώ με την ιδιότητα του όχλου;&quot;</em></p>
+    </blockquote>
+</details>
+
+<details>
+    <summary>Οι Έχοντες και οι μη Κατέχοντες | Noam Chomsky</summary>
+    <p></p>
+    <p>Finished reading: ...</p>
+    <p>Publisher: Εκδόσεις Καστανιώτη</p>
+    <p><a href="https://eds.b.ebscohost.com/eds/detail/detail?vid=1&sid=71ca933c-a38d-48aa-ae47-f922b5ee967e%40pdc-v-sessmgr04&bdata=Jmxhbmc9ZWwmc2l0ZT1lZHMtbGl2ZQ%3d%3d#AN=nlg.152936&db=cat05962a">National Library of Greece link</a></p>
+    <p><a href="https://en.wikipedia.org/wiki/Class_Warfare">Wikipedia Link (Original)</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Τα στοιχεία του ΟΗΕ αποκαλύπτουν ότι προκειμένου να διασφαλιστεί η εκπαίδευση, η υγειονομική περίθαλψη, η επάρκεια τροφής και ασφαλείς εγκαταστάσεις ύδρευσης και αποχέτευσης για πάνω από δυο δισεκατομμύρια ανθρώπους (εκ των οποίων το ένα δισεκατομμύριο διαθέτει εισόδημα μικρότερο από ένα δολάριο την ημέρα) που στερούνται αυτά τα στοιχειώδη αγαθά θα απαιτούνταν μόλις το 4% (ναι, το τέσσερα τοις εκατό) της περιουσίας των 225 πλέον πλουσίων κατοίκων του πλανήτη μας.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;Έχει ενδιαφέρον ότι, στη σημερινή πολιτική σκηνή, χρησιμοποιείται σε πολύ μεγάλο βαθμό η παθητική φωνή. Για παράδειγμα, στο New Yorker δημοσιεύτηκε στις 16 Οκτωβρίου ένα άρθρο για την ανισότητα των εισοδημάτων, στο οποίο χρησιμοποιείται συνέχεια η παθητική φωνή. Η ανισότητα είναι κάτι που υφίσταται. Δεν υπάρχει ποιητικό αίτιο, δεν υπάρχει κάποιος υπεύθυνος. Η ενεργητική φωνή δεν χρησιμοποιείται. Οι άνθρωποι γίνονται φτωχότεροι. Δεν τους κάνει κάποιος φτωχότερους. Απλά, είναι κάτι που συμβαίνει.&quot;</em></p>
+    </blockquote>
+</details>
+
+<details>
+    <summary>Beyond Beef: The Rise and Fall of the Cattle Culture | Jeremy Rifkin</summary>
+    <p></p>
+    <p>Finished reading: ...</p>
+    <p>Publisher: Plume</p>
+    <p><a href="https://www.goodreads.com/book/show/122381.Beyond_Beef">Goodreads.com Link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;There are currently 1.28 billion cattle populating the earth[1]. They graze on nearly 24 percent of the landmass of the planet and consume enough grain to feed hundreds of millions of people. Their combined weight exceeds that of the human population on earth.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;Cattle raising is a primary factor in the destruction of the world's remaining tropical rain forests. Millions of acres of ancient forests in Central and South America are being felled and cleared to make room for pastureland to graze cattle. Cattle herding is responsible for much of the spreading desertification in the sub-Sahara of Africa and the western rangeland of the United States and Australia.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;In developing nations, millions of peasants are being forced off their ancestral lands to make room for the conversion of farmland from subsistence food grain production to commercial feed grain production.<br>While millions of human beings go hungry for lack of adequate grain, millions more in the industrial world die from diseases caused by an excess of grain-fed animal flesh, and especially beef, in their diets. Americans, Europeans, and increasingly the Japanese are gorging on grain-fed beef and dying from the "diseases of affluence" - heart attacks, strokes and cancer.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;The book concludes with a plea to humanity to move beyond the beef culture in the twenty-first century. Dismantling the global cattle complex and significantly reducing the consumption of beef is an essential task of the coming decades if we are to have any hope of restoring our planet to health and feeding a growing human population.&quot;</em></p>
     </blockquote>
 </details>
