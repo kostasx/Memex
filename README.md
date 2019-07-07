@@ -4,7 +4,7 @@ A list of (my) morning readings (and occasional video viewing).
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
-  <summary>07/07/2019 | Maths & Machine Learning | <em>How a statistical formula won the war | Gavyn Davies does the maths</em> / <em>When to use different machine learning algorithms: a simple guide</em></summary>
+  <summary>07/07/2019 | Maths & Machine Learning | <em><a href="https://www.theguardian.com/world/2006/jul/20/secondworldwar.tvandradio">How a statistical formula won the war | Gavyn Davies does the maths</a></em> / <em><a href="https://www.freecodecamp.org/news/when-to-use-different-machine-learning-algorithms-a-simple-guide-ba615b19fb3b/">When to use different machine learning algorithms: a simple guide</a></em></summary>
   <ul>
     <li>
       <p><a href="https://www.theguardian.com/world/2006/jul/20/secondworldwar.tvandradio">How a statistical formula won the war | Gavyn Davies does the maths</a></p>
