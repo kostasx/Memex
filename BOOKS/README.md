@@ -156,3 +156,18 @@
         <p><em>&quot;The book concludes with a plea to humanity to move beyond the beef culture in the twenty-first century. Dismantling the global cattle complex and significantly reducing the consumption of beef is an essential task of the coming decades if we are to have any hope of restoring our planet to health and feeding a growing human population.&quot;</em></p>
     </blockquote>
 </details>
+
+<details>
+    <summary>Τα Μαύρα Φεγγάρια του Έρωτα | Πασκάλ Μπρυκνέρ</summary>
+    <p><img src="http://www.biblionet.gr/images/covers/b9588.jpg" /></p>
+    <p>Finished reading: ...</p>
+    <p>Publisher: ΑΣΤΑΡΤΗ</p>
+    <p><a href="http://www.biblionet.gr/book/9588/Bruckner,_Pascal,_1948-/%CE%A4%CE%B1_%CE%BC%CE%B1%CF%8D%CF%81%CE%B1_%CF%86%CE%B5%CE%B3%CE%B3%CE%AC%CF%81%CE%B9%CE%B1_%CF%84%CE%BF%CF%85_%CE%AD%CF%81%CF%89%CF%84%CE%B1">BiblioNet Link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Συνήθως, συνδέομαι με πλάσματα που δε μ΄ έχουν ανάγκη και που ξαφνικά βρίσκονται δεμένα με τα πιο δυνατά δεσμά. Έιμαι έτοιμος να δώσω τα πάντα σ΄ αυτόν που δε ζητάει τίποτα, μα δεν παραχωρώ το παραμικρό σ΄αυτόν που περιμένει τα πάντα. Ερωτεύτηκα τη Ρεβέκα γιατί είχε δεχτεί το δεσμό μας σαν μια παραπάνω ευτυχία σε μια ήρεμη ύπαρξη, κι όχι σαν μια σανίδα σωτηρίας σε μια απελπισμένη μοναξιά.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;Ο έρωτας φυσικά είναι δυο μοναξιές που ζευγαρώνουν για να φτιάξουν μια παρεξήγηση. Υπάρχει όμως πιο γοητευτική παρεξήγηση; Και η πραγματική σοφία δεν είναι άραγε η ικανότητα να ερωτεύεται κανείς ξανά και ξανά;&quot;</em></p>
+    </blockquote>
+</details>

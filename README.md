@@ -1,7 +1,20 @@
 # ReadingList
-A list of (my) morning readings (and occasional video viewing).
+A list of (my) morning readings (and occasional videos).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
+
+<details>
+  <summary>08/07/2019 | <a href="https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm">How Cambridge Analytica turned Facebook ‘likes’ into a lucrative political tool</a></summary>
+  <p><em>Soundtrack of the day: <strong>Pearl Jam</strong></em></p>
+  <br/>
+  <blockquote><em>&quot;A few dozen “likes” can give a strong prediction of which party a user will vote for, reveal their gender and whether their partner is likely to be a man or woman, provide powerful clues about whether their parents stayed together throughout their childhood and predict their vulnerability to substance abuse. And it can do all this without an need for delving into personal messages, posts, status updates, photos or all the other information Facebook holds.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;But five years ago psychology researchers showed that far more complex traits could be deduced from patterns invisible to a human observer scanning through profiles. Just a few apparently random “likes” could form the basis for disturbingly complex character assessments.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;The predictability of individual attributes from digital records of behaviour may have considerable negative implications, because it can easily be applied to large numbers of people without their individual consent and without them noticing,&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Commercial companies, governmental institutions, or even your Facebook friends could use software to infer attributes such as intelligence, sexual orientation or political views that an individual may not have intended to share.&quot;</em></blockquote>
+</details>
 
 <details>
   <summary>07/07/2019 | Maths & Machine Learning | <em><a href="https://www.theguardian.com/world/2006/jul/20/secondworldwar.tvandradio">How a statistical formula won the war | Gavyn Davies does the maths</a></em> / <em><a href="https://www.freecodecamp.org/news/when-to-use-different-machine-learning-algorithms-a-simple-guide-ba615b19fb3b/">When to use different machine learning algorithms: a simple guide</a></em></summary>
