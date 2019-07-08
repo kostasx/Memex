@@ -4,7 +4,7 @@ A list of (my) morning readings (and occasional videos).
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
-  <summary>08/07/2019 | <a href="https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm">How Cambridge Analytica turned Facebook ‘likes’ into a lucrative political tool</a></summary>
+  <summary>08/07/2019 | <a href="https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm">How Cambridge Analytica turned Facebook ‘likes’ into a lucrative political tool | By Carole Cadwalladr and Emma Graham-Harrison</a></summary>
   <p><em>Soundtrack of the day: <strong>Pearl Jam</strong></em></p>
   <br/>
   <blockquote><em>&quot;A few dozen “likes” can give a strong prediction of which party a user will vote for, reveal their gender and whether their partner is likely to be a man or woman, provide powerful clues about whether their parents stayed together throughout their childhood and predict their vulnerability to substance abuse. And it can do all this without an need for delving into personal messages, posts, status updates, photos or all the other information Facebook holds.&quot;</em></blockquote>
