@@ -171,3 +171,23 @@
         <p><em>&quot;Ο έρωτας φυσικά είναι δυο μοναξιές που ζευγαρώνουν για να φτιάξουν μια παρεξήγηση. Υπάρχει όμως πιο γοητευτική παρεξήγηση; Και η πραγματική σοφία δεν είναι άραγε η ικανότητα να ερωτεύεται κανείς ξανά και ξανά;&quot;</em></p>
     </blockquote>
 </details>
+
+<details>
+    <summary>A Short History of Progress | Ronald Wright</summary>
+    <p><img src="https://upload.wikimedia.org/wikipedia/en/4/42/Short_History_of_Progess_cover.png" /></p>
+    <p>Finished reading: ...</p>
+    <p>Publisher: Canongate Books</p>
+    <p><a href="https://en.wikipedia.org/wiki/A_Short_History_of_Progress">Wikipedia Link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;I came up with the term 'Progress Trap' to define human behaviors that, sort of, seem to be good things. Seem to provide benefits in the sort term but ultimately lead to disaster because they are unsustainable.&quot;</em></p>
+    </blockquote>
+    <br/>
+    <blockquote>
+        <p><em>&quot;Our physical bodies and our physical brains, as far as we can tell, have changed very little in the past 50.000. We've only been living in civilization for the last 5.000 years at the most, which is less than 0.2% of our evolutionary history. So the other 99.8% we were hunters and gatherers and that is the kind of way of life, that made us. We are essentially the same people as those Stone Age hunters. [...] So, we are running 21st century software or knowledge on hardware that hasn't been upgraded for 50.000 years. And this lies at the core of many of our problems.&quot;</em></p>
+    </blockquote>
+    <br/>
+    <blockquote>
+        <p><em>&quot;All of this is because our human nature is back in the hunting gathering era of the old Stone Age, whereas our knowledge and our technology, in other words our ability to do both good and harm to ourselves and to the world in general, has grown out of all proportion.&quot;</em></p>
+    </blockquote>
+</details>

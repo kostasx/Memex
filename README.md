@@ -4,6 +4,16 @@ A list of (my) morning readings (and occasional videos).
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>20/07/2019 | <a href="https://www.nytimes.com/2019/07/10/opinion/judith-butler-gender.html">When Killing Women Isn’t a Crime | Judith Butler</a></summary>
+  <br/>
+  <blockquote><em>&quot;...violence against women, in its many forms, is a global tragedy.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Collectives are formed through a realization of a common social condition and a social bond, one that recognizes that what is happening to one life, whether it is violence, debt or subjection to patriarchal authority, is also happening for others. And though they may happen in different ways, the patterns are there, and so also are the grounds for solidarity.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;...lives are renewed in the company of others. Those relations are what sustain us and, as such, deserve our collective attention and commitment.&quot;</em></blockquote>
+</details>
+
+<details>
   <summary>08/07/2019 | <a href="https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm">How Cambridge Analytica turned Facebook ‘likes’ into a lucrative political tool | By Carole Cadwalladr and Emma Graham-Harrison</a></summary>
   <p><em>Soundtrack of the day: <strong>Pearl Jam</strong></em></p>
   <br/>
