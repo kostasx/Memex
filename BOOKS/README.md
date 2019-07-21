@@ -191,3 +191,12 @@
         <p><em>&quot;All of this is because our human nature is back in the hunting gathering era of the old Stone Age, whereas our knowledge and our technology, in other words our ability to do both good and harm to ourselves and to the world in general, has grown out of all proportion.&quot;</em></p>
     </blockquote>
 </details>
+
+<details>
+    <summary>Η Απάτη της Στατιστικής | Darrel Huff</summary>
+    <img src="how-to-lie-with-statistics.jpg"/>
+    <p>Finished reading: ...</p>
+    <p>Publisher: Εκδόσεις Οξύ</p>
+    <p><a href="http://www.biblionet.gr/book/27443/Huff,_Darrel/%CE%97_%CE%B1%CF%80%CE%AC%CF%84%CE%B7_%CF%84%CE%B7%CF%82_%CF%83%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE%CF%82">BiblioNet link</a></p>
+    <p>Original Title:<strong>How to Lie with Statistics</strong></p>
+</details>

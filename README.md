@@ -4,6 +4,14 @@ A list of (my) morning readings (and occasional videos).
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>21/07/2019 | <a href="https://www.facebook.com/triaridis/posts/10157571793193559?__tn__=K-R">Εύα Μόουζες Κορ | Θανάσης Τριαρίδης</a></summary>
+  <br/>
+  <blockquote><em>&quot;Σε ένα αδιανόητο παιχνίδι του πεπρωμένου η Εύα Μόουζες-Κορ άφησε την περασμένη Πέμπτη την τελευταία της πνοή μέσα στο Αουσβιτς, περιηγώντας ανθρώπους στους χώρους του Εργαστηρίου Πειραμάτων, εκεί όπου μαρτύρησε πριν από 75 χρόνια, στον πιο σκοτεινό και ανυπόφορο βυθό της ανθρώπινης κατάστασης. Και πέθανε μιλώντας για αυτήν την ανάγκη που κυριολεκτικά σπάραξε την ύστερη ζωή της: την ανάγκη να συγχωρήσουμε για να επιζήσουμε.&quot;</em></blockquote>
+  <br>
+  <a href="ARCHIVE/ΕΥΑ ΜΟΟΥΖΕΣ ΚΟΡ.md">Local copy</a>
+</details>
+
+<details>
   <summary>20/07/2019 | <a href="https://www.nytimes.com/2019/07/10/opinion/judith-butler-gender.html">When Killing Women Isn’t a Crime | Judith Butler</a></summary>
   <br/>
   <blockquote><em>&quot;...violence against women, in its many forms, is a global tragedy.&quot;</em></blockquote>
