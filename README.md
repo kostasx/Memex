@@ -1,5 +1,5 @@
 # ReadingList
-A list of (my) morning readings (and occasional videos).
+A list of (my) morning readings (and occasional videos). And a [list of books](https://github.com/kostasx/Memex/tree/master/BOOKS).
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
