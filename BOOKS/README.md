@@ -194,9 +194,72 @@
 
 <details>
     <summary>Η Απάτη της Στατιστικής | Darrel Huff</summary>
-    <img src="how-to-lie-with-statistics.jpg"/>
+    <img src="images/how-to-lie-with-statistics.jpg"/>
     <p>Finished reading: ...</p>
     <p>Publisher: Εκδόσεις Οξύ</p>
     <p><a href="http://www.biblionet.gr/book/27443/Huff,_Darrel/%CE%97_%CE%B1%CF%80%CE%AC%CF%84%CE%B7_%CF%84%CE%B7%CF%82_%CF%83%CF%84%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE%CF%82">BiblioNet link</a></p>
     <p>Original Title:<strong>How to Lie with Statistics</strong></p>
 </details>
+
+<details>
+    <summary>Test Card F: Television, Mythinformation and Social Control</summary>
+    <img src="images/TestCardF.jpg"/>
+    <p>Finished reading: ...</p>
+    <p>Publisher: AKPress</p>
+    <p><a href="https://www.akpress.org/testcardf.html">link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;The image operates upon us in a manner which conceals its ideological function because it appears to record rather than to transform. Its power lies in its visual character as an actual trace of reality, the evidence of our own eyes - 'this really happened, see for yourself'&quot;</em></p>
+    </blockquote>
+    <br/>
+    <blockquote>
+        <p><em>&quot;Information is disseminated in such quantity and at such speed that confirmation becomes impossible.&quot;</em></p>
+    </blockquote>
+    <br/>
+    <blockquote>
+        <p><em>&quot;Often when open propaganda is conveyed we are on our guard, but we tend to be less so when we believe we are simply receiving 'information'.&quot;</em></p>
+    </blockquote>
+    <br/>
+
+</details>
+
+<details>
+    <summary>Trust Us, We're Experts: How Industry Manipulates Science and Gambles With Your Future | Sheldon Rampton & John Stauber</summary>
+    <img src="images/TrustUsWereExperts.gif"/>
+    <p>Finished reading: 200?</p>
+    <p>Publisher: </p>
+    <p><a href="https://en.wikipedia.org/wiki/Trust_Us,_We%27re_Experts">Wikipedia link</a></p>
+</details>
+
+<details>
+    <summary>Trust Us, We're Experts: How Industry Manipulates Science and Gambles With Your Future | Sheldon Rampton & John Stauber</summary>
+    <img src="images/TrustUsWereExperts.gif"/>
+    <p>Finished reading: 200?</p>
+    <p>Publisher: </p>
+    <p><a href="https://en.wikipedia.org/wiki/Trust_Us,_We%27re_Experts">Wikipedia link</a></p>
+</details>
+
+<details>
+    <summary>Endgame Volume I & II | Derrick Jensen</summary>
+    <img src="images/endgame.jpg"/>
+    <p>Finished reading: 200?</p>
+    <p>Publisher: Seven Stories Press</p>
+    <p><a href="https://en.wikipedia.org/wiki/Endgame_(Derrick_Jensen_books)">Wikipedia link</a></p>
+</details>
+
+<details>
+    <summary>ΤΟ ΚΟΙΝΟ ΚΑΛΟ - ΣΥΝΕΝΤΕΥΞΕΙΣ ΜΕ ΤΟΝ DAVID BARSAMIAN | Noam Chomsky</summary>
+    <img src="images/tokoinokalo.jpg"/>
+    <p>Finished reading: 200?</p>
+    <p>Publisher: Scripta</p>
+    <p><a href="https://www.politeianet.gr/books/9789607909206-chomsky-noam-scripta-to-koino-kalo-152067">link</a></p>
+</details>
+
+<details>
+    <summary>Η ΧΕΙΡΑΓΩΓΗΣΗ ΤΩΝ ΜΑΖΩΝ - ΣΥΝΕΝΤΕΥΞΕΙΣ ΜΕ ΤΟΝ DAVID BARSAMIAN | Noam Chomsky</summary>
+    <img src="images/mazes.jpg"/>
+    <p>Finished reading: 200?</p>
+    <p>Publisher: Scripta</p>
+    <p><a href="https://www.politeianet.gr/books/9789607909039-chomsky-noam-scripta-i-cheiragogisi-ton-mazon-204673">link</a></p>
+</details>
+
