@@ -232,14 +232,6 @@
 </details>
 
 <details>
-    <summary>Trust Us, We're Experts: How Industry Manipulates Science and Gambles With Your Future | Sheldon Rampton & John Stauber</summary>
-    <img src="images/TrustUsWereExperts.gif"/>
-    <p>Finished reading: 200?</p>
-    <p>Publisher: </p>
-    <p><a href="https://en.wikipedia.org/wiki/Trust_Us,_We%27re_Experts">Wikipedia link</a></p>
-</details>
-
-<details>
     <summary>Endgame Volume I & II | Derrick Jensen</summary>
     <img src="images/endgame.jpg"/>
     <p>Finished reading: 200?</p>
