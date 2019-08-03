@@ -27,6 +27,15 @@
 </details>
 
 <details>
+    <summary>Έλεος και Θνητότητα στην Βιέννη | Thomas Pynchon</summary>
+    <img src="images/pynchon-vienna.jpg" />
+    <p>Finished reading: 2018</p>
+    <p>Publisher: Κακός Βηξ</p>
+    <p>Original Title: Mercy and Mortality in Vienna</p>
+    <p><a href="https://www.goodreads.com/book/show/36380925">Goodreads link</a></p>
+</details>
+
+<details>
     <summary>Οι Διεργασίες της Σκέψης στην Εποχή της Πληροφορίας: Θέματα Γνωστικής Ψυχολογίας και Επικοινωνίας | Ντάβου Μπετίνα</summary>
     <p>Finished reading: 2016</p>
     <p><a href="http://www.biblionet.gr/book/30112/%CE%9D%CF%84%CE%AC%CE%B2%CE%BF%CF%85,_%CE%9C%CF%80%CE%B5%CF%84%CE%AF%CE%BD%CE%B1/%CE%9F%CE%B9_%CE%B4%CE%B9%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82_%CF%84%CE%B7%CF%82_%CF%83%CE%BA%CE%AD%CF%88%CE%B7%CF%82_%CF%83%CF%84%CE%B7%CE%BD_%CE%B5%CF%80%CE%BF%CF%87%CE%AE_%CF%84%CE%B7%CF%82_%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82"></a>ΒιβλίοNet Link</p>

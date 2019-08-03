@@ -4,6 +4,38 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>03/08/2019 | <a href="https://mosaicscience.com/story/why-good-people-turn-bad-online-science-trolls-abuse/">Why good people turn bad online | Gaia Vince</a></summary>
+  <br/>
+  <blockquote><em>&quot;
+  The constant barrage of abuse, including death threats and threats of sexual violence, is silencing people, pushing them off online platforms and further reducing the diversity of online voices and opinion. [...] instead of embracing a massive extension of our social circles online, we seem to be reverting to tribalism and conflict.
+  &quot;</em></blockquote>
+  <br>
+  <blockquote><em>&quot;
+  "There is a lot of evidence that cooperation is a central feature of human evolution," says [David] Rand [Associate Professor of Management Science & Brain and Cognitive Sciences at MIT]. Individuals benefit, and are more likely to survive, by cooperating with the group. And being allowed to stay in the group and benefit from it is reliant on our reputation for behaving cooperatively.
+  &quot;</em></blockquote>
+  <br>
+  <blockquote><em>&quot;
+  Rather than work out every time whether it’s in our long-term interests to be nice, it’s more efficient and less effort to have the basic rule: be nice to other people. That’s why our unthinking response in the experiment is a generous one.
+  &quot;</em></blockquote>
+  <br>
+  <blockquote><em>&quot;
+  "Content that triggers outrage and that expresses outrage is much more likely to be shared," Crockett says. What we’ve created online is "an ecosystem that selects for the most outrageous content, paired with a platform where it’s easier than ever before to express outrage".
+  &quot;</em></blockquote>
+  <br>
+  <blockquote><em>&quot;"Our hypothesis is that the design of these platforms could make expressing outrage into a habit, and a habit is something that’s done without regard to its consequences – it’s insensitive to what happens next, it’s just a blind response to a stimulus," [Molly] Crockett [Assistant Professor of Psychology, Cambridge University] explains.<br>"I think it’s worth having a conversation as a society as to whether we want our morality to be under the control of algorithms whose purpose is to make money for giant tech companies," she adds.
+  &quot;</em></blockquote>
+  <br>
+  <blockquote><em>&quot;
+  On the upside, the lower costs of expressing outrage online have allowed marginalised, less-empowered groups to promote causes that have traditionally been harder to advance.
+  &quot;</em></blockquote>
+  <br>
+  <blockquote><em>&quot;
+  As Danescu-Niculescu-Mizil points out, we’ve had thousands of years to hone our person-to-person interactions, but only 20 years of social media. "Offline, we have all these cues from facial expressions to body language to pitch… whereas online we discuss things only through text. I think we shouldn’t be surprised that we’re having so much difficulty in finding the right way to discuss and cooperate online."
+  &quot;</em></blockquote>
+  <br>
+</details>
+
+<details>
   <summary>21/07/2019 | <a href="https://www.facebook.com/triaridis/posts/10157571793193559?__tn__=K-R">Εύα Μόουζες Κορ | Θανάσης Τριαρίδης</a></summary>
   <br/>
   <blockquote><em>&quot;Σε ένα αδιανόητο παιχνίδι του πεπρωμένου η Εύα Μόουζες-Κορ άφησε την περασμένη Πέμπτη την τελευταία της πνοή μέσα στο Αουσβιτς, περιηγώντας ανθρώπους στους χώρους του Εργαστηρίου Πειραμάτων, εκεί όπου μαρτύρησε πριν από 75 χρόνια, στον πιο σκοτεινό και ανυπόφορο βυθό της ανθρώπινης κατάστασης. Και πέθανε μιλώντας για αυτήν την ανάγκη που κυριολεκτικά σπάραξε την ύστερη ζωή της: την ανάγκη να συγχωρήσουμε για να επιζήσουμε.&quot;</em></blockquote>
