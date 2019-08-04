@@ -4,6 +4,16 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>04/08/2019 | <a href="https://vimeo.com/285803564"> Conversations Gone Awry: Detecting Early Signs of Conversational Failure | Presented by Justine Zhang  </a></summary>
+  <p>Duration: 25:17</p>
+  <p>
+    <a href="http://www.cs.cornell.edu/~cristian/Conversations_gone_awry_files/awry_talk_acl2018.pdf"><strong>Slides</strong></a>
+  </p>
+  <br/>
+  <blockquote><em>&quot;"So, in some sense, being polite at the start of a conversation, gains significance in terms of how that conversation eventually ends up."&quot;</em></blockquote>
+</details>
+
+<details>
   <summary>03/08/2019 | <a href="https://mosaicscience.com/story/why-good-people-turn-bad-online-science-trolls-abuse/">Why good people turn bad online | Gaia Vince</a></summary>
   <br/>
   <blockquote><em>&quot;
