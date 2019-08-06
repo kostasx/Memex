@@ -167,6 +167,19 @@
 </details>
 
 <details>
+    <summary>ΛΑΚΑΝ | Slavoj Zizek</summary>
+    <img src="images/slavoj-zizek-lacan.jpg"
+     />
+    <p data-finished-reading></p>
+    <p>Publisher: ΕΚΔΟΣΕΙΣ ΠΑΤΑΚΗ</p>
+    <p><a href="http://www.biblionet.gr/book/140277/%C5%BDi%C5%BEek,_Slavoj/%CE%9B%CE%B1%CE%BA%CE%AC%CE%BD">BiblioNet Link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Το φροϋδικό ασυνείδητο προκάλεσε τέτοιο σκάνδαλο όχι εξαιτίας του ισχυρισμού ότι ο ορθολογικός εαυτός υπόκειται στο πολύ ευρύτερο φάσμα των ανορθολογικών τυφλών ενστίκτων, αλλά επειδή κατέδειξε τον τρόπο με τον οποίο το ασυνείδητο υπακούει σε μια δική του γραμματική και λογική: το ασυνείδητο σκέπτεται και ομιλεί. (σ.12)&quot;</em></p>
+    </blockquote>
+</details>
+
+<details>
     <summary>Τα Μαύρα Φεγγάρια του Έρωτα | Πασκάλ Μπρυκνέρ</summary>
     <p><img src="http://www.biblionet.gr/images/covers/b9588.jpg" /></p>
     <p>Finished reading: ...</p>
@@ -229,7 +242,18 @@
         <p><em>&quot;Often when open propaganda is conveyed we are on our guard, but we tend to be less so when we believe we are simply receiving 'information'.&quot;</em></p>
     </blockquote>
     <br/>
+</details>
 
+<details>
+    <summary>Τα Πάθη του Νεαρού Βέρθερου | GOETHE</summary>
+    <img src="images/werther.jpg"/>
+    <p data-finished-reading></p>
+    <p>Publisher: ΕΚΔΟΣΕΙΣ ΑΓΡΑ</p>
+    <p><a href="http://www.biblionet.gr/book/21513/Goethe,_Johann_Wolfgang_von,_1749-1832/%CE%A4%CE%B1_%CF%80%CE%AC%CE%B8%CE%B7_%CF%84%CE%BF%CF%85_%CE%BD%CE%B5%CE%B1%CF%81%CE%BF%CF%8D_%CE%92%CE%AD%CF%81%CE%B8%CE%B5%CF%81%CE%BF%CF%85">BiblioNet link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;3 Σεπτεμβρίου<br>Μερικές φορές δεν μπορώ να συλλάβω πως μπορεί, πως έχει το δικαίωμα να την αγαπάει ένας άλλος, τη στιγμή που εγώ την αγαπώ τόσο μοναχικά, τόσο βαθιά και με τέτοια πληρότητα και δεν γνωρίζω ούτε ξέρω ούτε έχω τίποτε άλλο έγω απ' αυτήν.&quot;</em></p>
+    </blockquote>
 </details>
 
 <details>
