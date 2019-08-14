@@ -4,13 +4,33 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>14/08/2019 | <a href="https://www.theatlantic.com/magazine/archive/2019/08/an-epidemic-of-disbelief/592807/">An Epidemic of Disbelief / What new research reveals about sexual predators, and why police fail to catch them | Barbara Bradley Hagerty </a></summary>
+  <br/>
+  <blockquote><em>&quot;The deeper problem is a criminal-justice system in which police officers continue to reflexively disbelieve women who say they’ve been raped—even in this age of the #MeToo movement, and even when DNA testing can confirm many allegations.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Each year, roughly 125,000 rapes are reported across the United States. [...] But in 49 out of every 50 rape cases, the alleged assailant goes free—often, we now know, to assault again. Which means that rape—more than murder, more than robbery or assault—is by far the easiest violent crime to get away with.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;If a victim couldn’t come to police headquarters on the detective’s timetable—because she couldn’t find transportation or child care or get time off from work—she was labeled “uncooperative.” The case was closed.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;For more than a decade, Liz Garcia had wondered whether her rapist would return to kill her and her daughters, as he’d promised. She suffered panic attacks, sometimes five a day. She avoided answering the door. She showered with the curtain open. She left the light on all night. She slept on the couch, with her back to the wall. “I had knives under my pillows. I hid knives all over the house,” she told me.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Most rapes, of course, are not committed by strangers. Eighty percent of the time, the rapist is someone a woman knows—they met at a party or a bar; he’s her colleague, friend, mentor, coach.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;This is the question that haunts every advocate, researcher, and enlightened detective or prosecutor I spoke with: How many rapes could have been prevented if the police had believed the first victim, launched a thorough investigation, and caught the rapist? How many women would have been spared a brutal assault?&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Why would officials decide not to pursue these cases? Campbell and Lovell point to the same factor: law enforcement’s abiding skepticism of women who report being raped.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;“We heard over and over detectives use the term righteous victim,” she told me. A woman who didn’t know her assailant, who fought back, who has a clean record and hadn’t been drinking or offering sex for money or drugs—that woman will be taken seriously. Spohn recalled a typical comment: “ ‘If I had a righteous victim, I would do all that I could to make sure that the suspect was arrested. But most of my victims don’t look like that.’ ”&quot;</em></blockquote>
+</details>
+
+<details>
   <summary>04/08/2019 | <a href="https://vimeo.com/285803564"> Conversations Gone Awry: Detecting Early Signs of Conversational Failure | Presented by Justine Zhang  </a></summary>
   <p>Duration: 25:17</p>
   <p>
     <a href="http://www.cs.cornell.edu/~cristian/Conversations_gone_awry_files/awry_talk_acl2018.pdf"><strong>Slides</strong></a>
   </p>
   <br/>
-  <blockquote><em>&quot;"So, in some sense, being polite at the start of a conversation, gains significance in terms of how that conversation eventually ends up."&quot;</em></blockquote>
+  <blockquote><em>&quot;So, in some sense, being polite at the start of a conversation, gains significance in terms of how that conversation eventually ends up.&quot;</em></blockquote>
 </details>
 
 <details>
