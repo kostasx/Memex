@@ -24,6 +24,12 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 </details>
 
 <details>
+  <summary>11/08/2019 | <a href="https://www.theguardian.com/commentisfree/2019/aug/08/monsanto-roundup-journalist-documents">I’m a journalist. Monsanto built a step-by-step strategy to destroy my reputation | Carey Gillam</a></summary>
+  <br/>
+  <blockquote><em>&quot;...when I recently received close to 50 pages of internal Monsanto communications about the company’s plans to target me and my reputation, I was shocked.&quot;</em></blockquote>
+</details>
+
+<details>
   <summary>04/08/2019 | <a href="https://vimeo.com/285803564"> Conversations Gone Awry: Detecting Early Signs of Conversational Failure | Presented by Justine Zhang  </a></summary>
   <p>Duration: 25:17</p>
   <p>
