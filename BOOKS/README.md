@@ -3,6 +3,20 @@
 <hr>
 
 <details>
+    <summary>The Gods Will Have Blood | Anatole France </summary>
+    <img src="images/the-gods-will-have-blood.jpg"
+     />
+    <p>Finished reading: 08/2019</p>
+    <p>Publisher: Penguin Classics</p>
+    <p><a href="https://en.wikipedia.org/wiki/The_Gods_Are_Athirst">Wikipedia link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Do allow me to give you a word of advice, citizen. If you want to make something of your life, give up your packs of patriotic cards, forget about your revolutionary symbols, your Hercules, your Hydras, your Furies pursuing traitors, your geniuses of Liberty – and paint me some pretty girls. Citizens' enthusiasm for self-reformation diminishes with time; men's love for women never.&quot; p.52</em></p>
+    </blockquote>
+</details>
+
+
+<details>
     <summary>Η ΑΛΓΟΡΙΘΜΙΚΗ ΤΕΧΝΗ ΤΩΝ ΑΠΟΦΑΣΕΩΝ: Η επιστήμη των υπολογιστών στην καθημερινή ζωή | BRIAN CHRISTIAN & TOM GRIFFITHS</summary>
     <img src="images/algorithms-to-live-by.jpg"
      />
@@ -312,3 +326,6 @@
     <p><a href="https://www.politeianet.gr/books/9789607909039-chomsky-noam-scripta-i-cheiragogisi-ton-mazon-204673">link</a></p>
 </details>
 
+<details>
+    <summary>Νεκρή Ζώνη | Στήβεν Κινγκ</summary>
+</details>
