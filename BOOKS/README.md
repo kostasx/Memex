@@ -3,6 +3,34 @@
 <hr>
 
 <details>
+    <summary>The Good Person of Szechwuan | Bertolt Brecht </summary>
+    <img src="images/the-good-person.jpg"
+     />
+    <p>Finished reading: 08/2019</p>
+    <p>Publisher: Methuen Drama</p>
+    <p><a href="https://en.wikipedia.org/wiki/The_Good_Person_of_Szechwan">Wikipedia link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p>
+            <br>
+            <em>&quot;<strong>SHEN TEH:</strong> I am not good. I have an admission to make: when Wang asked me if I could shelter you I had hesitations.&quot;</em>
+            <br><br>
+            <em>&quot;<strong>THE FIRST GOD:</strong> Hesitations do not count if you overcome them.&quot;</em>
+            <br>
+        </p>
+    </blockquote>
+    <blockquote>
+        <p>
+            <br>
+            <em>&quot;<strong>SHEN TEH:</strong> Wait, Illustrious Ones. I am by no means sure that I am good. I should certainly like to be, but how am I to pay the rent? Let me admit: I sell myself in order to live, and even so I cannot manage, for there are so many forced to do this. I would take on anything, but who would not? Of course I should like to obey the commadmentments: to honour my parents and respect the truth. Not to covet my neighbour's house would be a joy to me, and to love, honour and cherish a husband would be very pleasant. Nor do I wish to exploit other men or to rob the defenceless. But how can it be done? Even by breaking one or two of the commadments I can barely manage. &quot;</em>
+            <br><br>
+            <em>&quot;<strong>THE FIRST GOD:</strong> All these, Shen Teh, are but the doubts of a good person.&quot;</em>
+            <br>
+        </p>
+    </blockquote>
+</details>
+
+<details>
     <summary>The Gods Will Have Blood | Anatole France </summary>
     <img src="images/the-gods-will-have-blood.jpg"
      />
@@ -14,7 +42,6 @@
         <p><em>&quot;Do allow me to give you a word of advice, citizen. If you want to make something of your life, give up your packs of patriotic cards, forget about your revolutionary symbols, your Hercules, your Hydras, your Furies pursuing traitors, your geniuses of Liberty – and paint me some pretty girls. Citizens' enthusiasm for self-reformation diminishes with time; men's love for women never.&quot; p.52</em></p>
     </blockquote>
 </details>
-
 
 <details>
     <summary>Η ΑΛΓΟΡΙΘΜΙΚΗ ΤΕΧΝΗ ΤΩΝ ΑΠΟΦΑΣΕΩΝ: Η επιστήμη των υπολογιστών στην καθημερινή ζωή | BRIAN CHRISTIAN & TOM GRIFFITHS</summary>
