@@ -4,6 +4,14 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>03/09/2019 | <a href="https://thevaccinereaction.org/2019/08/google-joins-the-pharmaceutical-industry/">Google Joins the Pharmaceutical Industry | Kate Raines</a></summary>
+  <br/>
+  <blockquote><em>&quot;In some cases, no matter how specific a search question is, or how it is worded and re-worded, the search results stubbornly return the same tired but mainstream medical authority-approved results.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Teasing out the infiltration of the pharmaceutical industry into Google, it seems that Alphabet is not just delivering an approved narrative, but Google’s message too.&quot;</em></blockquote>
+</details>
+
+<details>
   <summary>14/08/2019 | <a href="https://www.theatlantic.com/magazine/archive/2019/08/an-epidemic-of-disbelief/592807/">An Epidemic of Disbelief / What new research reveals about sexual predators, and why police fail to catch them | Barbara Bradley Hagerty </a></summary>
   <br/>
   <blockquote><em>&quot;The deeper problem is a criminal-justice system in which police officers continue to reflexively disbelieve women who say they’ve been raped—even in this age of the #MeToo movement, and even when DNA testing can confirm many allegations.&quot;</em></blockquote>

@@ -3,6 +3,19 @@
 <hr>
 
 <details>
+    <summary>A View from the Bridge / All My Sons | Arthur Miller </summary>
+    <img src="images/a-view-from-the-bridge--all-my-sons.jpg"
+     />
+    <p>Finished reading: 08/2019</p>
+    <p>Publisher: Penguin Classics</p>
+    <p><a href="https://www.goodreads.com/book/show/437965.A_View_from_the_Bridge_All_My_Sons">GoodReads link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <em>&quot; &quot;</em>
+    </blockquote>
+</details>
+
+<details>
     <summary>The Good Person of Szechwuan | Bertolt Brecht </summary>
     <img src="images/the-good-person.jpg"
      />
