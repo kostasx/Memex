@@ -3,6 +3,15 @@
 <hr>
 
 <details>
+    <summary>Ο Κομμουνιστής της Μονμάρτης | Michael Kleeberg </summary>
+    <img src="images/communiste-monmarte.jpg"
+     />
+    <p>Finished reading: 08/2019</p>
+    <p>Publisher: Εκδόσεις Άγρα</p>
+    <p><a href="http://www.biblionet.gr/book/220517/Kleeberg,_Michael/%CE%9F_%CE%BA%CE%BF%CE%BC%CE%BC%CE%BF%CF%85%CE%BD%CE%B9%CF%83%CF%84%CE%AE%CF%82_%CF%84%CE%B7%CF%82_%CE%9C%CE%BF%CE%BD%CE%BC%CE%AC%CF%81%CF%84%CF%81%CE%B7%CF%82">BiblioNet link</a></p>
+</details>
+
+<details>
     <summary>A View from the Bridge / All My Sons | Arthur Miller </summary>
     <img src="images/a-view-from-the-bridge--all-my-sons.jpg"
      />
