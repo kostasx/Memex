@@ -4,6 +4,22 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>03/10/2019 | <a href="http://www.sarantakos.com/kibwtos/mazi/papadop_ksenos.htm">Ο ξένος | Αλεξάνδρα Παπαδοπούλου</a></summary>
+  <br/>
+  <blockquote><em>&quot;Κατόπιν, ήλθαν τα γράμματά του, αι εφημερίδες του, και οι επαρχιώται, μαζευμένοι εις το ταχυδρομείον, όπως μαζεύονται για να διαβάσουν τους φακέλους, διότι ο Τούρκος ταχυδρόμος δεν ξεύρει να διαβάσει ούτε ελληνικά, ούτε γαλλικά, έβγαλαν από τα γραμματόσημα διάφορα συμπεράσματα και ένας μάλιστα πρότεινε (όπως εγίνετο δι’ όλους τους ξένους) ν’ ανοίξουν κανένα γράμμα του γιατρού και οι άλλοι απεφάνθησαν «ότι δεν είναι καιρός ακόμη».&quot;</em></blockquote>
+  <br>
+  <blockquote><em>&quot;«Εγώ εύχομαι να γλιτώσεις γρήγορα από την επαρχίαν και να συνάξεις αρκετά χρήματα, να εξακολουθήσουμε τας σπουδάς μας εις την Ευρώπην.<br>Υ.Γ. Όπως σου είπα, δυσπίστει προς τους επαρχιώτας.»&quot;</em></blockquote>
+  <br>
+  <blockquote><em>&quot;Ο γιατρός, ο οποίος εσυλλογίζετο με πόσον ολίγα πράγματα κερδίζεται η δημοτικότης, τώρα συλλογίζεται πως με πολύ ολιγότερα κερδίζεται η αντιδημοτικότης.&quot;</em></blockquote>
+  <br>
+  <a href="ARCHIVE/Ο Ξένος.txt">Local copy</a>
+</details>
+
+<details>
+  <summary>03/10/2019 | <a href="https://publicdomainreview.org/collections/x-is-for/">X is for…</a></summary>
+</details>
+
+<details>
   <summary>28/09/2019 | <a href="https://www.fastcompany.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs">The Female Supercomputer Designer Who Inspired Steve Jobs | Katharine Schwab | Fast Company </a></summary>
   <br/>
   <blockquote><em>&quot;“I grew up in a household that was ‘form follows function,‘” Thiel says. “Basically design had to be functional and it had to express its function. And this was 1 of the 10 commandments in our household.”&quot;</em></blockquote>
