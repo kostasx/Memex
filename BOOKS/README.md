@@ -1,4 +1,9 @@
-<p>Currently reading:<br><strong>The Mass Psychology of Fascism</strong>, Wilhelm Reich</p>
+<p>
+Currently reading:
+    <br><strong>The Mass Psychology of Fascism</strong>, Wilhelm Reich
+    <br><strong>Grokking Algorithms: An illustrated guide for programmers and other curious people</strong>, Aditya Y. Bhargava
+    <br><strong>A Mind For Numbers</strong>, Barbara Oakley
+</p>
     
 <hr>
 
