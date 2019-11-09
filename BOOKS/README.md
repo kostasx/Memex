@@ -3,6 +3,15 @@
 <hr>
 
 <details>
+    <summary>Το περίσσιο παιδί | Θανάσης Τριαρίδης </summary>
+    <img src="images/to perissio paidi.jpg"
+     />
+    <p>Finished reading: 11/2019</p>
+    <p>Publisher: Εκδόσεις Gutenberg</p>
+    <p><a href="https://www.dardanosnet.gr/book_details.php?id=2582">Λink</a></p>
+</details>
+
+<details>
     <summary>Ο Κομμουνιστής της Μονμάρτης | Michael Kleeberg </summary>
     <img src="images/communiste-monmarte.jpg"
      />
