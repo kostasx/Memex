@@ -126,7 +126,7 @@ Currently reading:
 
 <details>
     <summary>Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right | Angela Nagle</summary>
-    <img src="https://en.wikipedia.org/wiki/Kill_All_Normies#/media/File:Killallnormies.jpg" />
+    <img src="images/kill-all-normies.jpg" />
     <p>Finished reading: 2018</p>
     <p>Publisher: Zero Books</p>
     <p><a href="https://en.wikipedia.org/wiki/Kill_All_Normies">Wikipedia link</a></p>
