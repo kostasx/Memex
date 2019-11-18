@@ -8,12 +8,28 @@ Currently reading:
 <hr>
 
 <details>
+    <summary>Το Τέλος | Σάμουελ Μπέκετ </summary>
+    <img src="images/beckett-to-telos-cover.jpg"
+     />
+    <p>Finished reading: 11/2019</p>
+    <p>Publisher: Εκδόσεις Αλεξάνδρεια</p>
+    <p><a href="http://alexandria-publ.gr/shop/to-telos/">Link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p>
+            <br>
+            <em>&quot;Δεν αισθανόμουν καλά, όμως μου είπαν ότι ήμουν αρκετά καλά. Δεν είπαν βέβαια κατά λέξη ότι δεν επρόκειτο ποτέ να αισθανθώ καλύτερα, το έπιασα όμως το υπονοούμενο.&quot;</em>
+        </p>
+    </blockquote>
+</details>
+
+<details>
     <summary>Το περίσσιο παιδί | Θανάσης Τριαρίδης </summary>
     <img src="images/to perissio paidi.jpg"
      />
     <p>Finished reading: 11/2019</p>
     <p>Publisher: Εκδόσεις Gutenberg</p>
-    <p><a href="https://www.dardanosnet.gr/book_details.php?id=2582">Λink</a></p>
+    <p><a href="https://www.dardanosnet.gr/book_details.php?id=2582">Link</a></p>
 </details>
 
 <details>
