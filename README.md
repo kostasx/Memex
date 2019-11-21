@@ -4,6 +4,12 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>21/11/2019 | <a href="https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry">Maths and tech specialists need Hippocratic oath, says academic | Ian Sample, The Guardian</a></summary>
+  <br/>
+  <blockquote><em>&quot;We’ve got all these tech companies filled with very young, very inexperienced, often white boys who have lived in maths departments and computer science departments. They have never been asked to think about ethics, they have never been asked to consider how other people’s perspectives of life might be different to theirs, and ultimately these are the people who are designing the future for all of us.&quot;</em></blockquote>
+</details>
+
+<details>
   <summary>03/10/2019 | <a href="http://www.sarantakos.com/kibwtos/mazi/papadop_ksenos.htm">Ο ξένος | Αλεξάνδρα Παπαδοπούλου</a></summary>
   <br/>
   <blockquote><em>&quot;Κατόπιν, ήλθαν τα γράμματά του, αι εφημερίδες του, και οι επαρχιώται, μαζευμένοι εις το ταχυδρομείον, όπως μαζεύονται για να διαβάσουν τους φακέλους, διότι ο Τούρκος ταχυδρόμος δεν ξεύρει να διαβάσει ούτε ελληνικά, ούτε γαλλικά, έβγαλαν από τα γραμματόσημα διάφορα συμπεράσματα και ένας μάλιστα πρότεινε (όπως εγίνετο δι’ όλους τους ξένους) ν’ ανοίξουν κανένα γράμμα του γιατρού και οι άλλοι απεφάνθησαν «ότι δεν είναι καιρός ακόμη».&quot;</em></blockquote>
