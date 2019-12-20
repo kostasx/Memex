@@ -2,10 +2,18 @@
 Currently reading:
     <br><strong>The Mass Psychology of Fascism</strong>, Wilhelm Reich
     <br><strong>Grokking Algorithms: An illustrated guide for programmers and other curious people</strong>, Aditya Y. Bhargava
-    <br><strong>A Mind For Numbers</strong>, Barbara Oakley
 </p>
     
 <hr>
+
+<details>
+    <summary>A Mind For Numbers: How to Excel at Math and Science | Barbara Oakley </summary>
+    <img src="images/mind-for-numbers-front.jpg"
+     />
+    <p>Finished reading: 20/12/2019</p>
+    <p>Publisher: TarcherPerigee </p>
+    <p><a href="https://barbaraoakley.com/books/a-mind-for-numbers/">Author's Website</a></p>
+</details>
 
 <details>
     <summary>Το Τέλος | Σάμουελ Μπέκετ </summary>
