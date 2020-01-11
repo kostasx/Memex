@@ -378,6 +378,14 @@ Currently reading:
 </details>
 
 <details>
+    <summary>ΣΗΜΕΙΩΣΕΙΣ ΓΙΑ ΤΟ ΤΡΕΜΑΜΕΝΟ ΣΩΜΑ - ΚΕΙΜΕΝΑ ΠΟΛΙΤΙΚΗΣ ΑΝΑΓΚΗΣ | ΤΡΙΑΡΙΔΗΣ ΘΑΝΑΣΗΣ</summary>
+    <img src="images/tremameno-soma.jpg"/>
+    <p data-finished-reading></p>
+    <p>Publisher: ΤΥΠΩΘΗΤΩ / ΔΑΡΔΑΝΟΣ</p>
+    <p><a href="http://www.triaridis.gr/soma/">Online Version</a></p>
+</details>
+
+<details>
     <summary>Trust Us, We're Experts: How Industry Manipulates Science and Gambles With Your Future | Sheldon Rampton & John Stauber</summary>
     <img src="images/TrustUsWereExperts.gif"/>
     <p>Finished reading: 200?</p>
