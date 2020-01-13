@@ -1,10 +1,20 @@
 <p>
 Currently reading:
+    <br><strong>Artificial Neural Networks</strong>, Robert J. Schalkoff
+    <br><strong>Death at Intervals</strong>, José Saramago
     <br><strong>The Mass Psychology of Fascism</strong>, Wilhelm Reich
-    <br><strong>Grokking Algorithms: An illustrated guide for programmers and other curious people</strong>, Aditya Y. Bhargava
 </p>
     
 <hr>
+
+<details>
+    <summary>Grokking Algorithms: An illustrated guide for programmers and other curious people | Aditya Y. Bhargava </summary>
+    <img src="images/Bhargava-Algorithms_hires.png"
+     />
+    <p>Finished reading: 14/01/2020</p>
+    <p>Publisher: Manning Publications </p>
+    <p><a href="https://www.manning.com/books/grokking-algorithms">Website</a></p>
+</details>
 
 <details>
     <summary>A Mind For Numbers: How to Excel at Math and Science | Barbara Oakley </summary>
