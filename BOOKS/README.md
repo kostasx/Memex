@@ -311,6 +311,15 @@ Currently reading:
 </details>
 
 <details>
+    <summary>Περί Τυφλότητας | Ζοζέ Σαραμάγκου</summary>
+    <br/>
+    <img src="images/peri-tyflotitas.jpg"/>
+    <p>Finished reading: 200x</p>
+    <p>Publisher: ΕΚΔΟΣΕΙΣ ΚΑΣΤΑΝΙΩΤΗ</p>
+    <p><a href="http://www.biblionet.gr/book/134736/Saramago,_Jos%C3%A9,_1922-2010/%CE%A0%CE%B5%CF%81%CE%AF_%CF%84%CF%85%CF%86%CE%BB%CF%8C%CF%84%CE%B7%CF%84%CE%BF%CF%82">BiblioNet</a></p>
+</details>
+
+<details>
     <summary>Τα Μαύρα Φεγγάρια του Έρωτα | Πασκάλ Μπρυκνέρ</summary>
     <p><img src="http://www.biblionet.gr/images/covers/b9588.jpg" /></p>
     <p>Finished reading: ...</p>
@@ -417,6 +426,15 @@ Currently reading:
     <p>Finished reading: 200?</p>
     <p>Publisher: Scripta</p>
     <p><a href="https://www.politeianet.gr/books/9789607909206-chomsky-noam-scripta-to-koino-kalo-152067">link</a></p>
+</details>
+
+<details>
+    <summary>Ο Αναρχικός Τραπεζίτης | Φερνάντο Πεσσόα</summary>
+    <br/>
+    <img src="images/o-anarxikos-trapezitis.jpg"/>
+    <p>Finished reading: 200x</p>
+    <p>Publisher: Gutenberg</p>
+    <p><a href="https://www.politeianet.gr/books/9789600117981-pessoa-fernando-gutenberg-o-anarchikos-trapezitis-259631?gclid=EAIaIQobChMI-JPXjqux5wIVRIuyCh3bTg1JEAAYASAAEgKtVfD_BwE">link</a></p>
 </details>
 
 <details>
