@@ -4,6 +4,28 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>02/02/2020 | <a href="https://qz.com/513392/experts-can-tell-if-your-parents-are-divorced-from-your-facebook-likes/">Experts can tell if your parents are divorced–from your Facebook likes | Christina Dong, October 2, 2015</a></summary>
+  <br/>
+  <blockquote><em>&quot;You are what you “like” on Facebook, a Stanford professor has found.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;...our most intimate traits can be very easily predicted from a digital footprint, and a very general one as well, such as Facebook “likes.”&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;One of our most surprising findings is that we could even predict whether your parents were divorced or not, based on your Facebook likes.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;There are many other intimate traits that are also predictable from your digital footprint: smoking, drinking, taking drugs, sexual orientation, religious and political views and so on.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;The second surprising thing is that such a wide range of digital footprints can be used in predictions—even broad measures, such as the number of your friends, number of your likes, how many times you log in to Facebook, how many tweets you have. Each one of those measures is not a very strong predictor of anything on its own. But if you combine many different variables of this kind, each of them slightly predictive, the computer can get a very good idea of who you are.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Few Facebook likes are so obviously linked with personality or other traits as to allow a human to use them in forming accurate judgments.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Computers, however, are very good at combining thousands or millions of subtle pieces of information to arrive at accurate predictions. We humans, with our limited ability to simultaneously process more than a few facts at a time, are rather bad at it.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;I think that, in a way, Facebook and other social media might be conveying information that is closer to our true selves than what we reveal in a face-to-face interaction.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;It’s rather easy for people to misrepresent themselves in, say, a half-hour-long interview or on a first date. It’s much more difficult to monitor your appearances and opinions in years of your Facebook history.&quot;</em></blockquote>
+</details>
+
+<details>
   <summary>14/12/2019 | <a href="https://www.sciencedaily.com/releases/2019/01/190114082844.htm">The human brain works backwards to retrieve memories</a></summary>
   <br/>
   <blockquote><em>&quot;Memory is a reconstructive process, biased by personal knowledge and world views -- sometimes we even remember events that never actually happened.&quot;</em></blockquote>
