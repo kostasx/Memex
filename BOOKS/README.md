@@ -1,11 +1,29 @@
 <p>
 Currently reading:
-    <br><strong>Artificial Neural Networks</strong>, Robert J. Schalkoff
-    <br><strong>Death at Intervals</strong>, José Saramago
-    <br><strong>The Mass Psychology of Fascism</strong>, Wilhelm Reich
+    <br><strong>Do Androids Dream Of Electric Sheep?</strong>, Philip K. Dick
+    <br><strong>An introduction to neural networks</strong>, Ben Kröse, Patrick van der Smagt
 </p>
+
+<details>
+    <summary>On hold</summary> 
+    <p><strong>Artificial Neural Networks</strong>, Robert J. Schalkoff</p>
+    <p><strong>The Mass Psychology of Fascism</strong>, Wilhelm Reich</p>
+</details>
     
 <hr>
+
+<details>
+    <summary>Death at Intervals | José Saramago</summary>
+    <img src="images/death-at-intervals.jpg"
+     />
+    <p>Finished reading: 09/02/2020</p>
+    <p>Publisher: VINTAGE</p>
+    <p><a href="https://en.wikipedia.org/wiki/Death_with_Interruptions">Wikipedia entry</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Death's perplexity is perfectly understandable. She was placed in this world so long ago that she can no longer remember from whom she received the necessary instructions to carry out the job she was charged with. They placed the regulations in her hands, pointed out the words thou shalt kill as the one guiding light of her future activities and told her, doubtless not noticing the macabre irony, to get on with her life.&quot;</em></p>
+    </blockquote>
+</details>
 
 <details>
     <summary>Grokking Algorithms: An illustrated guide for programmers and other curious people | Aditya Y. Bhargava </summary>
@@ -214,6 +232,18 @@ Currently reading:
     <h3>Quotes</h3>
     <blockquote>
         <p><em>&quot;Ποιά είναι η καλύτερη ερώτηση που μπορεί να τεθεί, και ποιά είναι η καλύτερη απάντηση που μπορεί να δοθεί;" ρώτησε ο Επιμενίδης. Και ο Βούδας αποκρίθηκε: "Η καλύτερη ερώτηση που μπορεί να τεθεί, είναι αυτή που μόλις μου έθεσες, και η καλύτερη απάντηση που μπορεί να δοθεί, είναι αυτή που σου δίνω τώρα.&quot;</em></p>
+    </blockquote>
+</details>
+
+<details>
+    <summary>Το Βιβλίο Κόλαση | Κάρλο Φραμπέτι</summary>
+    <p>Finished reading: ...</p>
+    <p>Publisher: Opera</p>
+    <p><a href="https://www.operabooks.gr/book_details/94/0/">Publisher's Website Link</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;"Κατ' αρχάς ελάχιστοι είναι αυτοί που μπορούν να κάνουν πραγματικά χωρίς θρησκευτικούς μύθους" απάντησε ο βιβλιοθηκάριος. "Οι περισσότεροι απ' αυτούς που πιστευουν ότι μπορούν να κάνουν χωρίς τη θρησκεία, γατζώνονται σε μια σειρά υποκατάστατων μύθων (ψευδο-επιστημονικών, πατριωτικών, εσωτερικιστικών), οι οποίοι ναι με δεν εξορκίζουν το φόβο του θανάτου αλλά τουλάχιστον απαλύνουν τον φόβο της ζωής. Δεύτερον, ο ίδιος ο θάνατος είναι ένα φαινόμενο μοναδικό, οριστικό, που όλοι σχεδόν το βλέπετε σαν κάτι θολό και μακρινό, κάτι που, όπως και ο Ήλιος δεν μπορείς να το δεις καταπρόσωπο. Δεν υπάρχει εμπειρία θανάτου, μας θυμίζει ο Επίκουρος: όταν είσαι εσύ, δεν είναι ο θάνατος. Όταν είναι ο θάνατος δεν είσαι εσύ πια.* Αντίθετα, η μοναξιά είναι μια εμπειρία συχνή (για να μη πω συνεχής) και άμεση, πολύ δύσκολο να την καταπραύνεις κατά τρόπο στοιχειωδώς ικανοποιητικό στο σκληρό σας κόσμο. Η ανάγκη να παραμυθιαστείτε σε ό,τι αφορά στη μοναξιά, είναι πολύ πιο άμεση και επιτακτική από την ανάγκη να παραμυθιαστείτε σε ό,τι αφορά στο θάνατο. Γι΄αυτό και ο έρωτας είναι ο βασικός, ο θεμελιώδης μύθος σας."&quot;</em></p>
+        <p><em>&quot;"Αυτός είναι ο δεύτερος κύκλος, ο κύκλος των λάγνων" ανήγγειλε επίσημα ο δαίμονας. "Εδώ θα συναντήσεις όλα σχεδόν τα βιβλία αγάπης..."<br/>"Γιατί σχεδόν όλα;"<br/>"Γιατί σχεδόν όλα δίνουν αξία, αν δεν την εξυμνούν απροκάλυπτα, στην κτηνώδη συνήθεια να καταβροχθίζουμε τους άλλους."<br/>"Μα η λαγνεία..."<br/>"Η αγάπη είναι λαγνεία" με διέκοψε ο βιβλιοθηκάριος. "Η λαγνεία είναι η υπέρμετρη όρεξη για σαρκικές απολαύσεις, και τι πιο υπέρμετρη όρεξη απ΄την επιθυμία ν΄αποκτήσεις ένα κομμάτι κρέας μόνο για σένα και για όλη σου τη ζωή, να καταπιείς ζωντανό κάποιο άλλο πρόσωπο;"&quot;</em></p>
     </blockquote>
 </details>
 
