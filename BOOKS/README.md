@@ -501,3 +501,11 @@ Currently reading:
 <details>
     <summary>Νεκρή Ζώνη | Στήβεν Κινγκ</summary>
 </details>
+
+<details>
+    <summary>Η Αυτοβιογραφία Ενός Ανήλικου Ληστή | Έντουαρντ Λιμόνοφ</summary>
+    <img width="300" src="https://www.protoporia.gr/repository/covers/14/143064.jpg"/>
+    <p>Finished reading: 199*</p>
+    <p>Publisher: Aquarius</p>
+    <p><a href="https://en.wikipedia.org/wiki/Eduard_Limonov#Books">Wikipedia</a></p>
+</details>

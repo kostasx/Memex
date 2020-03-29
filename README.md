@@ -3,6 +3,21 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+<!-- 23.03.2020 -->
+
+<details>
+  <summary>23/03/2020 | <a href="https://m.lifo.gr/articles/almanac/274595/o-raoyl-vanegkem-gia-ton-koronoio"> "'Εξω το φέρετρο, μέσα η τηλεόραση, το παράθυρο ανοιχτό σε έναν κλειστό κόσμο!" | Ο Raoul Vaneigem για τον κορωνοϊό</a></summary>
+  <p><em>Soundtrack of the day: <strong>La Mer, Charles Trenet</strong></em></p>
+<br/>
+  <blockquote><em>&quot;Υπάρχουν πάντα περισσότερα χρήματα για τις τράπεζες και όλο και λιγότερα κρεβάτια και νοσηλευτές για τα νοσοκομεία.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Ο κορωναϊός κατάφερε ακόμη κι άλλα. Παύοντας την βλαβερές συνέπειες της αχαλίνωτης παραγωγής, μειώνει την παγκόσμια ρύπανση, γλύτωνει εκατομμύρια ανθρώπους από έναν προγραμματισμένο θάνατο, η φύση αναπνέει, τα δελφίνια επιστρέφουν στη Σαρδηνία, τα κανάλια της Βενετίας απαλλαγμένα από τον μαζικό τουρισμό ξαναβρίσκουν ένα νερό καθαρό, το χρηματιστήριο καταρρέει. Η Ισπανία αποφασίζει να εθνικοποιήσει ιδιωτικά νοσοκομεία, σαν να ανακαλύπτει εκ νέου την κοινωνική ασφάλιση, σαν να θυμάται το κράτος το κράτος πρόνοιας που κατέστρεψε.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Το σημαντικό είναι να "ασχοληθούμε εμείς οι ίδιοι με τις υποθέσεις μας" αφήνοντας την κομπιναδόρικη φούσκα να διαλυθεί και να εκραγεί. Ας προσέξουμε να μη μας λείψει η τόλμη και η αυτοπεποίθηση!&quot;</em></blockquote>
+</details>
+
+<!-- 02.02.2020 -->
+
 <details>
   <summary>29/03/2020 | <a href="https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75">The world after coronavirus | Yuval Noah Harari </a></summary>
   <br/>
