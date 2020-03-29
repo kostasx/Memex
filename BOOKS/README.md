@@ -1,6 +1,7 @@
 <p>
 Currently reading:
-    <br><strong>Do Androids Dream Of Electric Sheep?</strong>, Philip K. Dick
+    <br><strong>Η ΣΕΞΟΥΑΛΙΚΟΤΗΤΑ ΚΑΙ Ο ΘΑΝΑΤΟΣ</strong>, RUFFIE JACQUES
+    <!-- sexoualikotita-kai-thanatos.jpg / Εκδόσεις ΡΑΠΠΑ -->
     <br><strong>An introduction to neural networks</strong>, Ben Kröse, Patrick van der Smagt
 </p>
 
@@ -11,6 +12,19 @@ Currently reading:
 </details>
     
 <hr>
+
+<details>
+    <summary>Do Androids Dream Of Electric Sheep? | Philip K. Dick</summary>
+    <img src="images/do-androids.jpg"
+     />
+    <p>Finished reading: 15/03/2020</p>
+    <p>Publisher: Weidenfeld & Nicolson</p>
+    <p><a href="https://www.weidenfeldandnicolson.co.uk/titles/philip-k-dick/do-androids-dream-of-electric-sheep/9781780220383/">Publisher's website</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;He had wondered as had most people at one time or another precisely why an android bounced helplessly about when confronted by an empathy-measuring test. Empathy, evidently, existed only within the human community, whereas intelligence to some degree could be found throughout every phylum and order including the arachnida. For one thing, the emphatic faculty probably required an unimpaired group instinct; a solitary organism, such as a spider, would have no use for it; in fact it would tend to abort a spider's ability to survive. It would make him conscious of the desire to live on the part of his prey. Hence all predators, even highly developed mammals such as cats, would starve.<br/>Empathy, he once had decided, must be limited to herbivores or anyhow omnivores who could depart from a meat diet. Because, ultimately, the emphatic gift blurred the boundaries between hunter and victim, between the successful and the defeated.&quot;</em></p>
+    </blockquote>
+</details>
 
 <details>
     <summary>Death at Intervals | José Saramago</summary>
@@ -338,6 +352,15 @@ Currently reading:
     <blockquote>
         <p><em>&quot;Το φροϋδικό ασυνείδητο προκάλεσε τέτοιο σκάνδαλο όχι εξαιτίας του ισχυρισμού ότι ο ορθολογικός εαυτός υπόκειται στο πολύ ευρύτερο φάσμα των ανορθολογικών τυφλών ενστίκτων, αλλά επειδή κατέδειξε τον τρόπο με τον οποίο το ασυνείδητο υπακούει σε μια δική του γραμματική και λογική: το ασυνείδητο σκέπτεται και ομιλεί. (σ.12)&quot;</em></p>
     </blockquote>
+</details>
+
+<details>
+    <summary>Η ΚΑΡΔΙΑ ΤΟΥ ΣΚΟΤΟΥΣ | CONRAD JOSEPH</summary>
+    <br/>
+    <img src="images/heart-of-darkness.jpg"/>
+    <p>Finished reading: ?</p>
+    <p>Publisher: ΠΑΤΑΚΗΣ</p>
+    <p><a href="http://www.biblionet.gr/book/2574/Conrad,_Joseph,_1857-1924/%CE%97_%CE%BA%CE%B1%CF%81%CE%B4%CE%B9%CE%AC_%CF%84%CE%BF%CF%85_%CF%83%CE%BA%CF%8C%CF%84%CE%BF%CF%85%CF%82">BiblioNet</a></p>
 </details>
 
 <details>

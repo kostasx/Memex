@@ -4,6 +4,26 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 <details>
+  <summary>29/03/2020 | <a href="https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75">The world after coronavirus | Yuval Noah Harari </a></summary>
+  <br/>
+  <blockquote><em>&quot;...temporary measures have a nasty habit of outlasting emergencies,&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Even when infections from coronavirus are down to zero, some data-hungry governments could argue they needed to keep the biometric surveillance systems in place because they fear a second wave of coronavirus, or because there is a new Ebola strain evolving in central Africa, or because ...you get the idea.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;A big battle has been raging in recent years over our privacy. The coronavirus crisis could be the battle’s tipping point. For when people are given a choice between privacy and health, they will usually choose health.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Asking people to choose between privacy and health is, in fact, the very root of the problem. Because this is a false choice. We can and should enjoy both privacy and health.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;A self-motivated and well-informed population is usually far more powerful and effective than a policed, ignorant population.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;A collective paralysis has gripped the international community. There seem to be no adults in the room.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;We must hope that the current epidemic will help humankind realise the acute danger posed by global disunity.&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Humanity needs to make a choice. Will we travel down the route of disunity, or will we adopt the path of global solidarity?&quot;</em></blockquote>
+</details>
+
+<details>
   <summary>02/02/2020 | <a href="https://qz.com/513392/experts-can-tell-if-your-parents-are-divorced-from-your-facebook-likes/">Experts can tell if your parents are divorced–from your Facebook likes | Christina Dong, October 2, 2015</a></summary>
   <br/>
   <blockquote><em>&quot;You are what you “like” on Facebook, a Stanford professor has found.&quot;</em></blockquote>
@@ -492,6 +512,7 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 - [The New York Times](https://www.nytimes.com/)
 - [The New Yorker Magazine](https://www.newyorker.com/)
 - [The Guardian](https://www.theguardian.com/)
+- [Financial Times](https://www.ft.com/)
 - [TED - A conference where Technology, Entertainment and Design converge](https://www.ted.com)
 - [MIT News](https://news.mit.edu)
 - [Futurism](https://futurism.com/)
