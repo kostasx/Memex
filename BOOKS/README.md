@@ -2,8 +2,11 @@
 Currently reading:
     <br><strong>Η ΣΕΞΟΥΑΛΙΚΟΤΗΤΑ ΚΑΙ Ο ΘΑΝΑΤΟΣ</strong>, RUFFIE JACQUES
     <!-- sexoualikotita-kai-thanatos.jpg / Εκδόσεις ΡΑΠΠΑ -->
+    <br><strong>THE IMPOSTER’S HANDBOOK</strong>, Rob Conery
     <br><strong>An introduction to neural networks</strong>, Ben Kröse, Patrick van der Smagt
 </p>
+
+<!-- ON HOLD -->
 
 <details>
     <summary>On hold</summary> 
@@ -12,6 +15,8 @@ Currently reading:
 </details>
     
 <hr>
+
+<!-- Do Androids Dream Of Electric Sheep? -->
 
 <details>
     <summary>Do Androids Dream Of Electric Sheep? | Philip K. Dick</summary>
@@ -26,6 +31,8 @@ Currently reading:
     </blockquote>
 </details>
 
+<!-- Death at Intervals -->
+
 <details>
     <summary>Death at Intervals | José Saramago</summary>
     <img src="images/death-at-intervals.jpg"
@@ -38,6 +45,8 @@ Currently reading:
         <p><em>&quot;Death's perplexity is perfectly understandable. She was placed in this world so long ago that she can no longer remember from whom she received the necessary instructions to carry out the job she was charged with. They placed the regulations in her hands, pointed out the words thou shalt kill as the one guiding light of her future activities and told her, doubtless not noticing the macabre irony, to get on with her life.&quot;</em></p>
     </blockquote>
 </details>
+
+<!-- Grokking Algorithms: An illustrated guide for programmers and other curious people -->
 
 <details>
     <summary>Grokking Algorithms: An illustrated guide for programmers and other curious people | Aditya Y. Bhargava </summary>
@@ -172,6 +181,22 @@ Currently reading:
      />
     <p>Finished reading: 2019</p>
     <p><a href="https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind">Wikipedia link</a></p>
+</details>
+
+<!-- ΒΙΟΣ ΚΑΙ ΠΟΛΙΤΕΙΑ ΤΟΥ ΑΛΕΞΗ ΖΟΡΜΠΑ -->
+
+<details>
+    <summary>Βίος και Πολιτεία του Αλέξη Ζορμπά | Νίκος Καζαντζάκης</summary>
+    <p>Finished reading: 2018</p>
+</details>
+
+<!-- ΒΑΚΧΑΙ -->
+
+<details>
+    <summary>Βάκχαι | Ευριπίδης </summary>
+    <p>Finished reading: 2018</p>
+    <p>Publisher: Κάκτος</p>
+    <p><a href="https://www.kaktos.gr/000136">Publisher's Website</a></p>
 </details>
 
 <details>
@@ -490,12 +515,24 @@ Currently reading:
     <p><a href="https://www.politeianet.gr/books/9789600117981-pessoa-fernando-gutenberg-o-anarchikos-trapezitis-259631?gclid=EAIaIQobChMI-JPXjqux5wIVRIuyCh3bTg1JEAAYASAAEgKtVfD_BwE">link</a></p>
 </details>
 
+<!-- Η ΧΕΙΡΑΓΩΓΗΣΗ ΤΩΝ ΜΑΖΩΝ -->
+
 <details>
     <summary>Η ΧΕΙΡΑΓΩΓΗΣΗ ΤΩΝ ΜΑΖΩΝ - ΣΥΝΕΝΤΕΥΞΕΙΣ ΜΕ ΤΟΝ DAVID BARSAMIAN | Noam Chomsky</summary>
     <img src="images/mazes.jpg"/>
     <p>Finished reading: 200?</p>
     <p>Publisher: Scripta</p>
     <p><a href="https://www.politeianet.gr/books/9789607909039-chomsky-noam-scripta-i-cheiragogisi-ton-mazon-204673">link</a></p>
+</details>
+
+<!-- ΤΟ ΔΙΚΑΙΩΜΑ ΣΤΗΝ ΑΠΛΗΣΤΙΑ -->
+
+<details>
+    <summary>Το Δικαίωμα στην Απληστία | For Ourselves</summary>
+    <img width="300" src="images/for-ourselves.jpeg"/>
+    <p>Finished reading: 199*</p>
+    <p>Publisher: Εκδόσεις Ερατώ</p>
+    <p><a href="https://www.goodreads.com/book/show/23212157">Good Reads</a></p>
 </details>
 
 <details>
