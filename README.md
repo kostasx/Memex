@@ -3,6 +3,36 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+<!-- 18.04.2020 -->
+
+<details>
+  <summary>18/04/2020 | <a href="https://www.theatlantic.com/science/archive/2020/04/coronavirus-pandemic-earth-pollution-noise/609316/">The Pandemic Is Turning the Natural World Upside Down | Marina Koren, The Atlantic</a></summary>
+  <br/>
+  <p><em>Soundtrack of the day: <strong>Peder B. Helland - Flying (Album)</strong></em></p>
+
+  <br/>
+  <blockquote><em>&quot;...the response to the pandemic has unwittingly produced some other large-scale, though less conspicuous, effects. In a bittersweet twist, the surreal slowdown of life as we know it has presented researchers with a rare opportunity to study the modern world under some truly bizarre conditions, and they’re scrambling to collect as much data as they can.&quot;</em></blockquote>
+
+  <br/>
+  <blockquote><em>&quot;Earth-observing satellites have detected a significant decrease in the concentration of a common air pollutant, nitrogen dioxide, which enters the atmosphere through emissions from cars, trucks, buses, and power plants.&quot;</em></blockquote>
+
+  <br/>
+  <blockquote><em>&quot;...a pandemic-related reduction in particulate matter in the atmosphere—the deadliest form of air pollution—likely saved the lives of 4,000 young children and 73,000 elderly adults in China over two months this year.&quot;</em></blockquote>
+
+  <br/>
+  <blockquote><em>&quot;“I used to think there weren’t really birds in Wuhan, because you rarely saw them and never heard them. I now know they were just muted and crowded out by the traffic and people,”&quot;</em></blockquote>
+
+  <br/>
+  <blockquote><em>&quot;Are the birds chirping more fiercely these days, or am I losing my mind?&quot;</em></blockquote>
+
+  <br/>
+  <blockquote><em>&quot;Research has shown that ambient noise from ships and other maritime traffic can increase stress-hormone levels in marine creatures, which can affect their reproductive success. Whales have even shown they can adapt to the din, pausing their singing when cargo ships are near and resuming when they move away.&quot;</em></blockquote>
+
+  <br/>
+  <blockquote><em>&quot;Nature is taking a breath when the rest of us are holding ours.&quot;</em></blockquote>
+
+</details>
+
 <!-- 29.03.2020 -->
 
 <details>
@@ -524,6 +554,7 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
 ## SOURCES
 
+- [The Atlantic](https://www.theatlantic.com/)
 - [The New York Times](https://www.nytimes.com/)
 - [The New Yorker Magazine](https://www.newyorker.com/)
 - [The Guardian](https://www.theguardian.com/)
