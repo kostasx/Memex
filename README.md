@@ -3,6 +3,24 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+<!-- 20.04.2020 -->
+
+<details>
+  <summary>20/04/2020 | <a href="https://www.linkedin.com/pulse/its-later-than-you-think-j-r-storment/">It's later than you think | J.R. Storment</a></summary>
+  <br/>
+  <p><em>Soundtrack of the day: <strong>The Hidden Valley, Peder B. Helland</strong></em></p>
+
+  <br/>
+  <blockquote><em>&quot;Do you have them regularly scheduled with your kids? If there’s any lesson to take away from this, it’s to remind others (and myself) not to miss out on the things that matter.&quot;</em></blockquote>
+
+  <br/>
+  <blockquote><em>&quot;But I believe in the words of Kahlil Gibran who said, “Work is love made visible.''&quot;</em></blockquote>
+
+  <br/>
+  <blockquote><em>&quot;Please ask us about our son’s life and his death. We heal in small bits while talking about it.&quot;</em></blockquote>
+
+</details>
+
 <!-- 18.04.2020 -->
 
 <details>
