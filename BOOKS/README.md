@@ -1,7 +1,5 @@
 <p>
 Currently reading:
-    <br><strong>Η ΣΕΞΟΥΑΛΙΚΟΤΗΤΑ ΚΑΙ Ο ΘΑΝΑΤΟΣ</strong>, RUFFIE JACQUES
-    <!-- sexoualikotita-kai-thanatos.jpg / Εκδόσεις ΡΑΠΠΑ -->
     <br><strong>THE IMPOSTER’S HANDBOOK</strong>, Rob Conery
     <br><strong>An introduction to neural networks</strong>, Ben Kröse, Patrick van der Smagt
 </p>
@@ -15,6 +13,21 @@ Currently reading:
 </details>
     
 <hr>
+
+<!-- Η ΣΕΞΟΥΑΛΙΚΟΤΗΤΑ ΚΑΙ Ο ΘΑΝΑΤΟΣ -->
+
+<details>
+    <summary>Η ΣΕΞΟΥΑΛΙΚΟΤΗΤΑ ΚΑΙ Ο ΘΑΝΑΤΟΣ | RUFFIE JACQUES</summary>
+    <img src="images/sexoualikotita-kai-thanatos.jpg"
+     />
+    <p>Finished reading: 30/03/2020</p>
+    <p>Publisher: Εκδόσεις ΡΑΠΠΑ</p>
+    <p><a href="http://www.biblionet.gr/book/19360/Ruffi%C3%A9,_Jacques/%CE%97_%CF%83%CE%B5%CE%BE%CE%BF%CF%85%CE%B1%CE%BB%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1_%CE%BA%CE%B1%CE%B9_%CE%BF_%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CF%82">BiblioNet</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;Αντίθετα με ό,τι πιστεύουμε, το φύλο δεν είναι κατ' ανάγκην σταθερό χαρακτηριστικό για ολόκληρη τη ζωή. Σε ορισμένα ζώα παρατηρούμε μια αλλαγή φύλου με την πάροδο του χρόνου. Το φαινόμενο ονομάζεται διαδοχικός ερμαφροδιτισμός.&quot;</em></p>
+    </blockquote>
+</details>
 
 <!-- Do Androids Dream Of Electric Sheep? -->
 
