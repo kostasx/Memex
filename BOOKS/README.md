@@ -1,5 +1,6 @@
 <p>
 Currently reading:
+    <br><strong>Chaos: Making a New Science by Gleick</strong>, James Gleick
     <br><strong>THE IMPOSTER’S HANDBOOK</strong>, Rob Conery
     <br><strong>An introduction to neural networks</strong>, Ben Kröse, Patrick van der Smagt
 </p>
