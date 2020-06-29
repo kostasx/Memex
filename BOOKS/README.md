@@ -14,6 +14,28 @@ Currently reading:
     
 <hr>
 
+<!-- THE BIG NINE -->
+
+<details>
+    <summary>The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity | Amy Webb</summary>
+    <img src="images/the-big-nine.jpg"
+     />
+    <p>Finished reading: 28/06/2020</p>
+    <p>Publisher: PublicAffairs</p>
+    <p><a href="https://www.publicaffairsbooks.com/titles/amy-webb/the-big-nine/9781541773745/">Publisher Site</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;What Zero also proved is that algorithms were now capable of learning without guidance from humans, and it was us humans who’d been holding AI systems back.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;But who, exactly, is the “we” these AI systems are being modeled on? Whose values, ideals, and worldviews are being taught?&quot;</em></p>
+        <p><em>&quot;The short answer is not yours—and also not mine. Artificial intelligence has the mind of its tribe, prioritizing its creators’ values, ideals, and worldviews. But it is also starting to develop a mind of its own.&quot;</em></p>
+    </blockquote>
+    <blockquote>
+        <p><em>&quot;AI-powered directional microphones and smart cameras now dot the highways and streets of Shanghai. Drivers who honk excessively are automatically issued a ticket via Tencent’s WeChat, while their names, photographs, and national identity card numbers are displayed on nearby LED billboards.&quot;</em></p>
+    </blockquote>
+</details>
+
 <!-- Η ΣΕΞΟΥΑΛΙΚΟΤΗΤΑ ΚΑΙ Ο ΘΑΝΑΤΟΣ -->
 
 <details>
