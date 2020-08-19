@@ -1,8 +1,7 @@
 <p>
 Currently reading:
-    <br><strong>Chaos: Making a New Science by Gleick</strong>, James Gleick
+    <br><strong>The Gulag Archipelago</strong>, Solzhenitsyn Aleksandr
     <br><strong>THE IMPOSTER’S HANDBOOK</strong>, Rob Conery
-    <br><strong>An introduction to neural networks</strong>, Ben Kröse, Patrick van der Smagt
 </p>
 
 <!-- ON HOLD -->
@@ -10,10 +9,26 @@ Currently reading:
 <details>
     <summary>On hold</summary> 
     <p><strong>Artificial Neural Networks</strong>, Robert J. Schalkoff</p>
+    <br><strong>An introduction to neural networks</strong>, Ben Kröse, Patrick van der Smagt
     <p><strong>The Mass Psychology of Fascism</strong>, Wilhelm Reich</p>
 </details>
     
 <hr>
+
+<!-- CHAOS -->
+
+<details>
+    <summary>CHAOS: The Amazing Science of the Unpredictable | JAMES GLEICK</summary>
+    <img src="images/chaos-james-gleick.jpeg"
+     />
+    <p>Finished reading: 30/07/2020</p>
+    <p>Publisher: VINTAGE</p>
+    <p><a href="https://www.goodreads.com/book/show/64582.Chaos">GoodReads</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;The solvable systems are the ones shown in textbooks. They behave. Confronted with a nonlinear system, scientists would have to substitute linear approximations or find some other uncertain backdoor approach. Textbooks showed students only the rare nonlinear systems that would give way to such techniques. They did not display sensitive dependence on initial conditions. Nonlinear systems with real chaos were rarely taught and rarely learned. When people stumbled across such things —and people did— all their training argued for dismissing them as aberrations. Only a few were able to remember that the solvable, orderly, linear systems were the aberrations. Only a few, that is, understood how nonlinear nature is in its soul. Enrico Fermi once exclaimed, “It does not say in the Bible that all laws of nature are expressible linearly!” The mathematician Stanislaw Ulam remarked that to call the study of chaos “nonlinear science” was like calling zoology “the study of non elephant animals.”&quot;</em></p>
+    </blockquote>
+</details>
 
 <!-- THE BIG NINE -->
 
@@ -559,6 +574,16 @@ Currently reading:
     <p>Finished reading: 200?</p>
     <p>Publisher: Scripta</p>
     <p><a href="https://www.politeianet.gr/books/9789607909039-chomsky-noam-scripta-i-cheiragogisi-ton-mazon-204673">link</a></p>
+</details>
+
+<!-- KILLING RAGE -->
+
+<details>
+    <summary>Killing Rage | Eamon Collins</summary>
+    <img width="300" src="images/killing-rage.jpg"/>
+    <p>Finished reading: 1999</p>
+    <p>Publisher: Granta</p>
+    <p><a href="https://www.goodreads.com/en/book/show/299233.Killing_Rage">GoogReads</a></p>
 </details>
 
 <!-- ΤΟ ΔΙΚΑΙΩΜΑ ΣΤΗΝ ΑΠΛΗΣΤΙΑ -->
