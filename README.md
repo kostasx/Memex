@@ -3,6 +3,15 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+<!-- 10.09.2020 -->
+
+<details>
+  <summary>10/09/2020 | <a href="https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy">Are you ready? Here is all the data Facebook and Google have on you | Dylan Curran</a></summary>
+  <br/>
+  <p><em>Soundtrack of the day: <strong>Aretha Franklin</strong></em></p>
+
+</details>
+
 <!-- 20.04.2020 -->
 
 <details>
