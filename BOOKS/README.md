@@ -1,6 +1,8 @@
 <p>
 Currently reading:
     <br><strong>The Gulag Archipelago</strong>, Solzhenitsyn Aleksandr
+    <br><strong>XAOS - Μια Αιρετική άποψη για το Χάος στην καθημερινή μας ζωή</strong>, F. David Peat - John Briggs
+    <br><strong>Unlearning with Hannah Arendt</strong>, Marie Luise Knott
     <br><strong>THE IMPOSTER’S HANDBOOK</strong>, Rob Conery
 </p>
 
@@ -327,11 +329,23 @@ Currently reading:
     <p><a href="http://www.biblionet.gr/book/30112/%CE%9D%CF%84%CE%AC%CE%B2%CE%BF%CF%85,_%CE%9C%CF%80%CE%B5%CF%84%CE%AF%CE%BD%CE%B1/%CE%9F%CE%B9_%CE%B4%CE%B9%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82_%CF%84%CE%B7%CF%82_%CF%83%CE%BA%CE%AD%CF%88%CE%B7%CF%82_%CF%83%CF%84%CE%B7%CE%BD_%CE%B5%CF%80%CE%BF%CF%87%CE%AE_%CF%84%CE%B7%CF%82_%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82"></a>ΒιβλίοNet Link</p>
 </details>
 
+<!-- The Trouble With Testosterone -->
+
 <details>
     <summary>The Trouble With Testosterone: And Other Essays On The Biology Of The Human Predicament | Sapolsky, Robert M.</summary>
     <p>Finished reading: 2015</p>
     <p><a href="https://www.goodreads.com/book/show/20668.The_Trouble_with_Testosterone_and_Other_Essays_on_the_Biology_of_the_Human_Predicament">goodreads.com link</a></p>
 </details>
+
+<!-- Μεγάλοι Δρόμοι | Λένα Κιτσοπούλου -->
+
+<details>
+    <summary>Μεγάλοι Δρόμοι | Λένα Κιτσοπούλου</summary>
+    <p>Εκδόσεις Μεταίχμιο</p>
+    <img src="images/megaloi-dromoi.jpg" />
+</details>
+
+<!-- Πριν το Τέλος | Κρίστοφερ Χίτσενς -->
 
 <details>
     <summary>Πριν το Τέλος | Κρίστοφερ Χίτσενς</summary>
@@ -420,6 +434,8 @@ Currently reading:
     </blockquote>
 </details>
 
+<!-- Πορνογραφία και Αισχρότητα | D.H. Lawrence -->
+
 <details>
     <summary>Πορνογραφία και Αισχρότητα | D.H. Lawrence</summary>
     <p>Finished reading: ...</p>
@@ -433,6 +449,8 @@ Currently reading:
         <p><em>&quot;Διότι κάθε άνθρωπος έχει μέσα του και τον όχλο και το άτομο, σε διαφορετικές αναλογίες. Μερικοί έχουν σχεδόν αποκλειστικά τον όχλο μέσα τους, είναι ανίκανοι για ευφάνταστες ατομικές αντιδράσεις. […] Η αντίδραση του καθενός σε μια λέξη μπορεί να είναι αντίδραση είτε του όχλου, είτε ατομική. Εναπόκειται στον άνθρωπο να αναρωτηθεί: Είναι η αντίδρασή μου ατομική, ή απλώς αντιδρώ με την ιδιότητα του όχλου;&quot;</em></p>
     </blockquote>
 </details>
+
+<!-- Οι Έχοντες και οι μη Κατέχοντες | Noam Chomsky -->
 
 <details>
     <summary>Οι Έχοντες και οι μη Κατέχοντες | Noam Chomsky</summary>
@@ -449,6 +467,8 @@ Currently reading:
         <p><em>&quot;Έχει ενδιαφέρον ότι, στη σημερινή πολιτική σκηνή, χρησιμοποιείται σε πολύ μεγάλο βαθμό η παθητική φωνή. Για παράδειγμα, στο New Yorker δημοσιεύτηκε στις 16 Οκτωβρίου ένα άρθρο για την ανισότητα των εισοδημάτων, στο οποίο χρησιμοποιείται συνέχεια η παθητική φωνή. Η ανισότητα είναι κάτι που υφίσταται. Δεν υπάρχει ποιητικό αίτιο, δεν υπάρχει κάποιος υπεύθυνος. Η ενεργητική φωνή δεν χρησιμοποιείται. Οι άνθρωποι γίνονται φτωχότεροι. Δεν τους κάνει κάποιος φτωχότερους. Απλά, είναι κάτι που συμβαίνει.&quot;</em></p>
     </blockquote>
 </details>
+
+<!-- Beyond Beef: The Rise and Fall of the Cattle Culture | Jeremy Rifkin -->
 
 <details>
     <summary>Beyond Beef: The Rise and Fall of the Cattle Culture | Jeremy Rifkin</summary>
@@ -470,6 +490,8 @@ Currently reading:
         <p><em>&quot;The book concludes with a plea to humanity to move beyond the beef culture in the twenty-first century. Dismantling the global cattle complex and significantly reducing the consumption of beef is an essential task of the coming decades if we are to have any hope of restoring our planet to health and feeding a growing human population.&quot;</em></p>
     </blockquote>
 </details>
+
+<!-- ΛΑΚΑΝ | Slavoj Zizek -->
 
 <details>
     <summary>ΛΑΚΑΝ | Slavoj Zizek</summary>
@@ -618,6 +640,15 @@ Currently reading:
     <p>Finished reading: 200?</p>
     <p>Publisher: Seven Stories Press</p>
     <p><a href="https://en.wikipedia.org/wiki/Endgame_(Derrick_Jensen_books)">Wikipedia link</a></p>
+</details>
+
+<!-- Η Καρδιά του Κτήνους -->
+
+<details>
+    <summary>Η Καρδιά του Κτήνους | Πέτρος Τατσόπουλος</summary>
+    <img src="images/kardia-tou-ktinous.jpg"/>
+    <p>Publisher: ΕΣΤΙΑ</p>
+    <p><a href="https://www.goodreads.com/book/show/16152845">GoodReads</a></p>
 </details>
 
 <!-- ΤΟ ΚΟΙΝΟ ΚΑΛΟ - ΣΥΝΕΝΤΕΥΞΕΙΣ ΜΕ ΤΟΝ DAVID BARSAMIAN -->
