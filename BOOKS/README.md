@@ -1,7 +1,6 @@
 <p>
 Currently reading:
     <br><strong>The Gulag Archipelago</strong>, Solzhenitsyn Aleksandr
-    <br><strong>XAOS - Μια Αιρετική άποψη για το Χάος στην καθημερινή μας ζωή</strong>, F. David Peat - John Briggs
     <br><strong>Unlearning with Hannah Arendt</strong>, Marie Luise Knott
     <br><strong>THE IMPOSTER’S HANDBOOK</strong>, Rob Conery
 </p>
@@ -16,6 +15,21 @@ Currently reading:
 </details>
     
 <hr>
+
+<!-- XAOS - Μια Αιρετική άποψη για το Χάος στην καθημερινή μας ζωή -->
+
+<details>
+    <summary>XAOS - Μια Αιρετική άποψη για το Χάος στην καθημερινή μας ζωή | F. David Peat - John Briggs</summary>
+    <img src="images/xaos.jpg" />
+    <p>Finished reading: 03/10/2020</p>
+    <p>Publisher: ΤΡΑΥΛΟΣ</p>
+    <p><a href=""></a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;If we have been hard on our own times it is because we have recoiled from the arrogance it often displays, its great desire to control human nature and the material world, its lust for constant progress, and its condescending attitude toward civilizations it classifies as primitive, underdeveloped, or backward. Most of all, we are concerned with our society’s obsession with the known and its woeful neglect of the dimension of mystery. It is quite right that we should be amazed at our own achievements, our triumphant technology, our science, the power of our computers, but what we don’t know may be sufficiently powerful to overturn in a moment our entire existence and certified knowledge.&quot;</em></p>
+        <p>(Source from the original text)</p>
+    </blockquote>
+</details>
 
 <!-- ΑΝΑΒΡΑΣΜΟΣ -->
 
@@ -323,6 +337,8 @@ Currently reading:
     <p><a href="https://www.goodreads.com/book/show/36380925">Goodreads link</a></p>
 </details>
 
+<!-- Οι Διεργασίες της Σκέψης στην Εποχή της Πληροφορίας: Θέματα Γνωστικής Ψυχολογίας και Επικοινωνίας | Ντάβου Μπετίνα -->
+
 <details>
     <summary>Οι Διεργασίες της Σκέψης στην Εποχή της Πληροφορίας: Θέματα Γνωστικής Ψυχολογίας και Επικοινωνίας | Ντάβου Μπετίνα</summary>
     <p>Finished reading: 2016</p>
@@ -355,6 +371,47 @@ Currently reading:
         <p><em>&quot;Γεναίος; Χα! Κράτα τον χαρακτηρισμό για καμιά μάχη από την οποία δεν μπορείς να το σκάσεις.&quot;</em></p>
     </blockquote>
 </details>
+
+<!-- ΑΜΛΕΤ -->
+
+<details>
+    <summary>ΑΜΛΕΤ | ΟΥΙΛΛΙΑΜ ΣΑΙΞΠΗΡ (Μετάφραση: Ερρίκος Μπελιές)</summary>
+    <img src="images/hamlet.jpg" />
+    <p>Finished reading: -</p>
+    <p>Publisher: ΚΕΔΡΟΣ</p>
+    <p><a href="https://www.kedros.gr/product/8053/amlet-metafrasi-errikos-mpelies.html">Publisher Website</a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;
+            Βουνά, κόσμος ολόκληρος τα παραδείγματα που με προτρέπουν:<br/>
+            μάρτυράς μου ο μέγας κι ισχυρός αυτός στρατός,<br/>
+            με αρχηγό έναν τρυφερό και καλομαθημένο πρίγκηπα,<br/>
+            που το μυαλό του, φουσκωμένο από θεία φιλοδοξία,<br/>
+            χλευάζει την άδηλη κι αβέβαιη έκβαση κι εκθέτει<br/>
+            ό,τι φθαρτό κι επισφαλές έχει σε όσα τολμούν<br/>
+            ο κίνδυνος, ο θάνατος κι η μοίρα - και όλα αυτά<br/>
+            για ένα τίποτα, μια παρωνυχίδα, ένα τσόφλι αυγού!<br/>
+            Αληθινά μεγάλος δεν είναι όποιος ξεσηκώνεται<br/>
+            χωρίς πρόκληση σοβαρή, αλλά εκείνος που ορμάει<br/>
+            και για ένα τίποτα οργανώνει πόλεμο φοβερό,<br/>
+            εάν διακυβεύεται η τιμή του. Ορίστε, εγώ τι θα κάνω;<br/>
+            Εγώ, που μου σκότωσαν τον πατέρα και ατίμασαν τη μάνα μου<br/>
+            - λόγοι που θα 'πρεπε να μου φουντώσουνε μυαλό και αίμα -<br/>
+            μένω άπραγος, νωθρός, ενώ - άλλη ντροπή μου! -<br/>
+            μπροστά μου παρελαύνουν είκοσι χιλιάδες άντρες, οδεύουν<br/>
+            προς τον θάνατο για μια ιδέα, μια αυταπάτη δόξας,<br/>
+            και προχωράνε προς τον τάφο λες και είναι το κρεβάτι τους,<br/>
+            πάνε να πολεμήσουνε για ένα κομματάκι γης<br/>
+            που δεν θα τους χωράει όρθιους να δώσουνε τη μάχη,<br/>
+            ούτε επαρκεί για να φιλοξενήσει τους νεκρούς τους.<br/>
+            Ω, πρέπει από δω κι εμπρός στον φόνο<br/>
+            να είν' η σκέψη μου: αλλιώς, άχρηστη είναι μόνο.<br/>
+        &quot;</em></p>
+        <p>4η Πράξη, Σκηνή 4η</p>
+    </blockquote>
+</details>
+
+<!-- The Culture of Fear: Why Americans Are Afraid of the Wrong Things | Barry Glassner -->
 
 <details>
     <summary>The Culture of Fear: Why Americans Are Afraid of the Wrong Things | Barry Glassner</summary>
@@ -405,6 +462,8 @@ Currently reading:
     </blockquote>
 </details>
 
+<!-- Απολογία ενός Ανθέλληνα | Νίκος Δήμου -->
+
 <details>
     <summary>Απολογία ενός Ανθέλληνα | Νίκος Δήμου</summary>
     <p>Finished reading: ...</p>
@@ -416,12 +475,16 @@ Currently reading:
     </blockquote>
 </details>
 
+<!-- Δίψα για Έρωτα | Γιούκιο Μισίμα -->
+
 <details>
     <summary>Δίψα για Έρωτα | Γιούκιο Μισίμα</summary>
     <p>Finished reading: ...</p>
     <p>Publisher: Εκδόσεις Καστανιώτη</p>
     <p><a href="https://www.kastaniotis.com/book/978-960-03-6147-6">Link from Publisher's site</a></p>
 </details>
+
+<!-- The Culture of Make Believe | Derrick Jensen -->
 
 <details>
     <summary>The Culture of Make Believe | Derrick Jensen</summary>
