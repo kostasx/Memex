@@ -735,7 +735,7 @@ Currently reading:
     <summary>Four Arguments for the Elimination of Television | Jerry Mander</summary>
     <img src="images/Four_Arguments_for_the_Elimination_of_Television.jpg" />
     <p>Finished reading: -</p>
-    <p>Publisher: PUBLISHER</p>
+    <p>Publisher: William Morrow Paperbacks</p>
     <p><a href="https://www.goodreads.com/book/show/228250.Four_Arguments_for_the_Elimination_of_Television">GoodReads</a></p>
     <!-- TODO
     <h3>Quotes</h3>
