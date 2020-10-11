@@ -3,13 +3,35 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
+<!-- XX.XX.2020 -->
+<!--
+<details>
+  <summary>XX/XX/2020 | <a href="">|</a></summary>
+  <br/>
+  <p><em>Soundtrack of the day: <strong></strong></em></p>
+  <br/>
+  <blockquote><em>&quot;&quot;</em></blockquote>
+</details>
+-->
+
+<!-- 11.10.2020 -->
+
+<details>
+  <summary>11/10/2020 | <a href="https://www.theguardian.com/books/2005/dec/03/fiction.dorislessing">Dark Times | James Roger</a></summary>
+  <br/>
+  <p><em>Soundtrack of the day: <strong>COCTEAU TWINS</strong></em></p>
+  <br/>
+  <blockquote><em>&quot;Lessing is exploring the territory where the personal becomes political (and when I understood that, I realised that it is indeed a sister book to her earlier novels, to books such as The Grass is Singing, where the evils of a political system, apartheid, are exposed through close examination of individual lives).&quot;</em></blockquote>
+  <br/>
+  <blockquote><em>&quot;Yet such shark-people (The media image of a terrorist is shark-like in its simplicity) are rare, as Lessing shows us; her terrorists are contaminated by the muddle of being human, have parents they rebel against, have suffered injustices, have maternal impulses and physical needs, and a burning need for identity and recognition. This is not to suggest for a moment that Lessing demands sympathy for her characters; this is no touchy-feely book to help us understand the poor things who are driven to such extremes. It is a witty and furious book, angry at human stupidity and destructiveness, both within the system and without. It shows us people who commit an evil act and it shows how that evil springs out of our own society. It connects us to it, while condemning it. It makes any kind of complacency impossible.&quot;</em></blockquote>
+</details>
+
 <!-- 10.09.2020 -->
 
 <details>
   <summary>10/09/2020 | <a href="https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy">Are you ready? Here is all the data Facebook and Google have on you | Dylan Curran</a></summary>
   <br/>
   <p><em>Soundtrack of the day: <strong>Aretha Franklin</strong></em></p>
-
 </details>
 
 <!-- 20.04.2020 -->
@@ -27,7 +49,6 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
   <br/>
   <blockquote><em>&quot;Please ask us about our son’s life and his death. We heal in small bits while talking about it.&quot;</em></blockquote>
-
 </details>
 
 <!-- 18.04.2020 -->
@@ -57,7 +78,6 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
   <br/>
   <blockquote><em>&quot;Nature is taking a breath when the rest of us are holding ours.&quot;</em></blockquote>
-
 </details>
 
 <!-- 29.03.2020 -->

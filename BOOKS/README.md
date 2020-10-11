@@ -5,6 +5,21 @@ Currently reading:
     <br><strong>THE IMPOSTER’S HANDBOOK</strong>, Rob Conery
 </p>
 
+<!-- TITLE -->
+<!--
+<details>
+    <summary>TITLE | AUTHOR</summary>
+    <img src="images/COVER" />
+    <p>Finished reading: XX/XX/2020</p>
+    <p>Publisher: PUBLISHER</p>
+    <p><a href=""></a></p>
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;&quot;</em></p>
+    </blockquote>
+</details>
+-->
+
 <!-- ON HOLD -->
 
 <details>
@@ -714,6 +729,22 @@ Currently reading:
     <p><a href="https://www.goodreads.com/book/show/16152845">GoodReads</a></p>
 </details>
 
+<!-- Four Arguments for the Elimination of Television -->
+
+<details>
+    <summary>Four Arguments for the Elimination of Television | Jerry Mander</summary>
+    <img src="images/Four_Arguments_for_the_Elimination_of_Television.jpg" />
+    <p>Finished reading: -</p>
+    <p>Publisher: PUBLISHER</p>
+    <p><a href="https://www.goodreads.com/book/show/228250.Four_Arguments_for_the_Elimination_of_Television">GoodReads</a></p>
+    <!-- TODO
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;&quot;</em></p>
+    </blockquote>
+    -->
+</details>
+
 <!-- ΤΟ ΚΟΙΝΟ ΚΑΛΟ - ΣΥΝΕΝΤΕΥΞΕΙΣ ΜΕ ΤΟΝ DAVID BARSAMIAN -->
 
 <details>
@@ -780,3 +811,14 @@ Currently reading:
     <p>Publisher: Aquarius</p>
     <p><a href="https://en.wikipedia.org/wiki/Eduard_Limonov#Books">Wikipedia</a></p>
 </details>
+
+<!-- Θεός και Κράτος -->
+
+<details>
+    <summary>Θεός και Κράτος | Μιχαήλ Μπακούνιν</summary>
+    <img width="300" src="images/theos-kai-kratos.jpg"/>
+    <p>Finished reading: 199*</p>
+    <p>Publisher: Ελεύθερος Τύπος</p>
+    <p><a href="https://www.wikiwand.com/el/%CE%98%CE%B5%CF%8C%CF%82_%CE%BA%CE%B1%CE%B9_%CE%9A%CF%81%CE%AC%CF%84%CE%BF%CF%82_(%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF)">Wikipedia</a></p>
+</details>
+
