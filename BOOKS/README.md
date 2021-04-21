@@ -31,6 +31,21 @@ Currently reading:
     
 <hr>
 
+<!-- HANNAH FRY HELLO WORLD -->
+<details>
+    <summary>Hello World: Being Human in the Age of Algorithms | Hannah Fry</summary>
+    <!-- <img src="images/COVER" /> -->
+    <p>Finished reading: 15/04/2021</p>
+    <p>Publisher: ΠΑΠΑΣΩΤΗΡΙΟΥ ΕΚΔΟΣΕΙΣ</p>
+    <p><a href="https://www.politeianet.gr/books/9789604911400-fry-hannah-papasotiriou-hello-world-312536">Link</a></p>
+    <!--
+    <h3>Quotes</h3>
+    <blockquote>
+        <p><em>&quot;&quot;</em></p>
+    </blockquote>
+    -->
+</details>
+
 <!-- XAOS - Μια Αιρετική άποψη για το Χάος στην καθημερινή μας ζωή -->
 
 <details>
