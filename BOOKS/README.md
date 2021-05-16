@@ -46,22 +46,6 @@ Currently reading:
     -->
 </details>
 
-<!-- HELLO WORLD -->
-<details>
-    <summary>Hello World | Hannah Fry</summary>
-    <img src="images/hello-world.png" />
-    <p>Finished reading: 30/03/2021</p>
-    <p>Publisher: ΠΑΠΑΣΩΤΗΡΙΟΥ</p>
-    <p><a href="https://ekdoseis-papasotiriou.gr/products/9789604911400-fry-hannah-hello-wolrd-anthropos-stin-epochi-tou-algorithmou">Publisher</a></p>
-    <p><a href="https://www.theguardian.com/books/2018/sep/29/hello-world-hannah-fry-review-artificial-intelligence-algorithms">Hello World by Hannah Fry – AI and why we over-trust what we don’t understand</a></p>
-    <!--
-    <h3>Quotes</h3>
-    <blockquote>
-        <p><em>&quot;&quot;</em></p>
-    </blockquote>
-    -->
-</details>
-
 <!-- ΕΝΝΕΑ ΑΛΓΟΡΙΘΜΟΙ ΠΟΥ ΑΛΛΑΞΑΝ ΤΟ ΜΕΛΛΟΝ -->
 <details>
     <summary>Εννέα Αλγόριθμοι που Άλλαξαν το Μέλλον (Nine Algorithms That Changed the Future) | John MacCormick</summary>
@@ -69,6 +53,14 @@ Currently reading:
     <p>Finished reading: 25/11/2020</p>
     <p>Publisher: Πανεπιστημιακές Εκδόσεις Κρήτης</p>
     <p><a href="https://www.cup.gr/book/ennea-algorithmi-pou-allaxan-to-mellon/">Publisher</a></p>
+<!-- HANNAH FRY HELLO WORLD -->
+<details>
+    <summary>Hello World: Being Human in the Age of Algorithms | Hannah Fry</summary>
+    <img src="images/hello-world.png" />
+    <p>Finished reading: 15/04/2021</p>
+    <p>Publisher: ΠΑΠΑΣΩΤΗΡΙΟΥ ΕΚΔΟΣΕΙΣ</p>
+    <p><a href="https://ekdoseis-papasotiriou.gr/products/9789604911400-fry-hannah-hello-wolrd-anthropos-stin-epochi-tou-algorithmou">Publisher</a></p>
+    <p><a href="https://www.theguardian.com/books/2018/sep/29/hello-world-hannah-fry-review-artificial-intelligence-algorithms">Hello World by Hannah Fry – AI and why we over-trust what we don’t understand</a></p>
     <!--
     <h3>Quotes</h3>
     <blockquote>
