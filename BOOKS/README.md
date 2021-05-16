@@ -53,6 +53,8 @@ Currently reading:
     <p>Finished reading: 25/11/2020</p>
     <p>Publisher: Πανεπιστημιακές Εκδόσεις Κρήτης</p>
     <p><a href="https://www.cup.gr/book/ennea-algorithmi-pou-allaxan-to-mellon/">Publisher</a></p>
+</details>
+
 <!-- HANNAH FRY HELLO WORLD -->
 <details>
     <summary>Hello World: Being Human in the Age of Algorithms | Hannah Fry</summary>
