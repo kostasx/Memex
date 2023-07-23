@@ -3,7 +3,7 @@ A list of (my) morning readings (and occasional videos). And a [list of books](h
 
 __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
 
-<!-- XX.XX.2020 -->
+<!-- XX.XX.2023 -->
 <!--
 <details>
   <summary>XX/XX/2020 | <a href="">|</a></summary>
@@ -13,6 +13,13 @@ __ERT = Estimated Reading Time in HH:MM:SS [[1]](#read-o-meter)__
   <blockquote><em>&quot;&quot;</em></blockquote>
 </details>
 -->
+
+<!-- 23.07.2023 -->
+<details>
+  <summary>23/07/2023 | <a href="https://www.technologyreview.com/2022/09/09/1059133/facebook-groups-rate-review-book-ban/">How conservative Facebook groups are changing what books children read in school</a></summary>
+  <br/>
+  <p><em>Soundtrack of the day: <strong>Apocalypse, Cigarettes After Sex</strong></em></p>
+</details>
 
 <!-- 11.10.2020 -->
 
